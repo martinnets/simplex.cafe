@@ -12,7 +12,7 @@ const AsideDefault: FC = () => {
   return (
     <div
       id='kt_aside'
-      className='aside'
+      className='aside bg-dark'
       data-kt-drawer='true'
       data-kt-drawer-name='aside'
       data-kt-drawer-activate='{default: true, lg: false}'

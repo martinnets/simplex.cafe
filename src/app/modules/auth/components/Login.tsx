@@ -62,7 +62,7 @@ export function Login() {
 								<div className="card-body">
 									<div className="text-start mb-10">
 										<h1 className="text-light mb-3 fs-3x " data-kt-translate="sign-in-title">Iniciar Sesión</h1>
-										<div className="text-gray-500 fw-semibold fs-6" data-kt-translate="general-desc">Complete sus datos.</div>
+										<div className="text-light  fs-6" data-kt-translate="general-desc">Complete sus datos.</div>
 									</div>
 									<div className="fv-row mb-8">
                     <input autoFocus
@@ -126,7 +126,7 @@ export function Login() {
                     <button
                     type='submit'
                     id='kt_sign_in_submit'
-                    className='btn btn-warning btn-lg text-light fw-bold'
+                    className='btn btn-dark btn-lg text-light fw-bold'
                     disabled={formik.isSubmitting || !formik.isValid}
                   >
                     {!loading && <span className='indicator-label'>-Iniciar Sesión-</span>}

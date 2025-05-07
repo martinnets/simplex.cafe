@@ -19,9 +19,9 @@ const AuthLayout = () => {
   return (
     <>
     <div className="d-flex flex-column flex-root" id="kt_app_root">
-			<div className="d-flex flex-column flex-lg-row flex-column-fluid " style={{backgroundColor:"#302220"}} >
+			<div className="d-flex flex-column flex-lg-row flex-column-fluid " style={{backgroundColor:"#F3793B"}} >
 				<a href="#" className="d-block d-lg-none mx-auto py-20">
-					<img alt="Logo" src="logo.png" className="theme-light-show h-100px" />
+					<img alt="Logo" src="logo-login.png" className="theme-light-show h-80px" />
 					<img alt="Logo" src="logo.png" className="theme-dark-show h-50px" />
 				</a>
 				<div className="d-flex flex-column flex-column-fluid flex-center w-lg-50 p-10">
