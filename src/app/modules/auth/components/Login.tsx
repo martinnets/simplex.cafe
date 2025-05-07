@@ -126,7 +126,7 @@ export function Login() {
                     <button
                     type='submit'
                     id='kt_sign_in_submit'
-                    className='btn btn-primary btn-lg'
+                    className='btn btn-warning btn-lg text-light fw-bold'
                     disabled={formik.isSubmitting || !formik.isValid}
                   >
                     {!loading && <span className='indicator-label'>-Iniciar Sesión-</span>}

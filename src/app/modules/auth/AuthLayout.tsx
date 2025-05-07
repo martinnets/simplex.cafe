@@ -21,8 +21,8 @@ const AuthLayout = () => {
     <div className="d-flex flex-column flex-root" id="kt_app_root">
 			<div className="d-flex flex-column flex-lg-row flex-column-fluid " style={{backgroundColor:"#302220"}} >
 				<a href="#" className="d-block d-lg-none mx-auto py-20">
-					<img alt="Logo" src="media/logo-simplex-negocio-white.png" className="theme-light-show h-60px" />
-					<img alt="Logo" src="media/logo-simplex-negocio-white.png" className="theme-dark-show h-25px" />
+					<img alt="Logo" src="logo.png" className="theme-light-show h-100px" />
+					<img alt="Logo" src="logo.png" className="theme-dark-show h-50px" />
 				</a>
 				<div className="d-flex flex-column flex-column-fluid flex-center w-lg-50 p-10">
 					<div className="d-flex justify-content-between flex-column-fluid flex-column w-100 mw-450px">
