@@ -129,7 +129,7 @@ export function Login() {
                     className='btn btn-primary btn-lg'
                     disabled={formik.isSubmitting || !formik.isValid}
                   >
-                    {!loading && <span className='indicator-label'>Iniciar Sesión</span>}
+                    {!loading && <span className='indicator-label'>-Iniciar Sesión-</span>}
                     {loading && (
                       <span className='indicator-progress' style={{ display: 'block' }}>
                         Cargando...
