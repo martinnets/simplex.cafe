@@ -1,0 +1,23 @@
+﻿export interface Pedido {
+    empresaId?:string
+    _id?:string  
+    codigo?:string
+        pedido?:number
+        fecha?:string
+        moneda?:string
+        clienteId?:string
+        sucursalId?:string
+        estado?:string
+        vendedorId?:string
+        tienda?:string
+        subtotal?:number
+        igv?:number
+        total?:number
+        detalle?:object
+        observacion?:string
+        codigo_estado?:string
+        usu_crea?:string
+        fec_crea?:Date
+        usu_modi?:string
+        fec_modi?:Date
+}

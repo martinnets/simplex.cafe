@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "simplexcrm",
+    "simplexcrm": "simplexcrm",
+    "crm": "simplex-erp",
+    "tunegocio":"tunegocio"
+  },
+  "targets": {},
+  "etags": {}
+}

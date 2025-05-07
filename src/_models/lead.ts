@@ -1,0 +1,23 @@
+﻿export interface Lead {
+    empresaId?:string
+    personalId?:string
+    _id?:string  
+    nombre_completo?:string
+    telefono?:string
+    email?:string
+    direccion?:string
+    empresa?:string
+    cargo?:string
+    fuente?:string
+    nivel_interes?:string
+    presupuesto_estimado?:string
+    moneda?:string
+    necesidad?:string
+    comentarios?:string
+    etapa_lead?:string
+    codigo_estado?:string
+    usu_crea?:string
+    fec_crea?:Date
+    usu_modi?:string
+    fec_modi?:Date
+}

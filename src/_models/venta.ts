@@ -1,0 +1,28 @@
+﻿export interface Venta {
+    empresaId?:string
+    _id?:string  
+        serie?:string
+        numero?:string
+        tipo_doc?:string
+        fecha?:string
+        moneda?:string
+        vencimiento?:string
+        clienteId?:string
+        cliente?:string
+        sucursalId?:string
+        estado?:string
+        vendedorId?:string
+        subtotal?:number
+        igv?:number
+        total?:number
+        cobrado?:number
+        porcobrar?:number
+        pedido?:string
+        observacion?:string
+        detalle?:object
+        codigo_estado?:string
+        usu_crea?:string
+        fec_crea?:Date
+        usu_modi?:string
+        fec_modi?:Date
+}

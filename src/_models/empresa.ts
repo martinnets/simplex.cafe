@@ -1,0 +1,19 @@
+﻿export interface Empresa {
+    _id?:string  
+        tipo_doc?:string
+        nro_doc?:string
+        empresa?:string
+        web?:string
+        email?:string
+        direccion?:string
+        telefono?:string
+        logo?:string
+        dpto?:string
+        prov?:string
+        dist?:string
+        codigo_estado?:string
+        usu_crea?:string
+        fec_crea?:Date
+        usu_modi?:string
+        fec_modi?:Date
+}

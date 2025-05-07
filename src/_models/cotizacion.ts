@@ -1,0 +1,23 @@
+﻿export interface Cotizacion {
+    empresaId?:string
+    _id?:string  
+    cotizacion?:string
+    descripcion?:string
+    fecha?:string
+    referencia?:string
+    moneda?:string
+    clienteId?:string
+    vendedorId?:string
+    cliente?:object
+    detalle?:object
+    subtotal?:string
+    igv?:string
+    total?:string
+    condiciones?:string
+    observaciones?:string
+    codigo_estado?:string
+    usu_crea?:string
+    fec_crea?:Date
+    usu_modi?:string
+    fec_modi?:Date
+}

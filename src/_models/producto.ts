@@ -1,0 +1,25 @@
+﻿export interface Producto {
+    empresaId?:string
+    _id?:string  
+        codigo?:string
+        producto?:string
+        descripcion?:string
+        categoria?:string
+        marca?:string
+        material?:string
+        color?:string
+        modelo?:string
+        submarca?:string
+        grupo?:string
+        tamaño?:string
+        genero?:string
+        precio_unitario?:string
+        costo_unitario?:string
+        imagen?:string
+        tipo_existencia?:string
+        codigo_estado?:string
+        usu_crea?:string
+        fec_crea?:Date
+        usu_modi?:string
+        fec_modi?:Date
+}

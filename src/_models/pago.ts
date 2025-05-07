@@ -1,0 +1,25 @@
+﻿export interface Pago {
+    empresaId?:string
+    _id?:string  
+    correlativo?:string
+    fecha?:string
+    fecha_programado?:string
+    importe?:number
+    cuenta?:string
+    metodo_pago?:string
+    moneda?:string
+    concepto?:string
+    categoria?:string
+    tipo_pago?:string
+    tipo_doc_pago?:string
+    num_doc?:string
+    observacion?:string
+    referencia?:string
+    compraId?:string
+    proveedorId?:string
+    codigo_estado?:string
+    usu_crea?:string
+    fec_crea?:Date
+    usu_modi?:string
+    fec_modi?:Date
+}

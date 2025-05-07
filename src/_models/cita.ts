@@ -1,0 +1,19 @@
+﻿export interface Cita {
+    _id?:string  
+        correlativo?:string
+        fecha_inicio?:string
+        hora_inicio?:string
+        fecha_fin?:string
+        hora_fin?:string
+        clienteId?:string
+        descripcion?:string
+        tipo_cita?:string
+        sucursalId?:string
+        personalId?:string
+        codigo_estado?:string
+        empresaId?:string
+        usu_crea?:string
+        fec_crea?:Date
+        usu_modi?:string
+        fec_modi?:Date
+}

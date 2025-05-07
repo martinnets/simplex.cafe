@@ -1,0 +1,21 @@
+﻿export interface Accion {
+    empresaId?:string
+    _id?:string  
+    asunto?:string
+    tipo_accion?:string
+    fecha_inicio?:string
+    hora_inicio?:string
+    fecha_fin?:string
+    hora_fin?:string
+    leadId?:string
+    oportunidadId?:string
+    descripcion?:string
+    prioridad?:string
+    responsableId?:string
+    comentarios?:string
+    codigo_estado?:string
+    usu_crea?:string
+    fec_crea?:Date
+    usu_modi?:string
+    fec_modi?:Date
+}

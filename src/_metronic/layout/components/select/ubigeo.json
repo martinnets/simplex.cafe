@@ -1,0 +1,6922 @@
+[
+    {
+      "N�": 1,
+      "Ubigeo": "010101",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CHACHAPOYAS",
+      "Distrito": "CHACHAPOYAS",
+      "": ""
+    },
+    {
+      "N�": 2,
+      "Ubigeo": "010103",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CHACHAPOYAS",
+      "Distrito": "BALSAS",
+      "": ""
+    },
+    {
+      "N�": 3,
+      "Ubigeo": "010105",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CHACHAPOYAS",
+      "Distrito": "CHILIQUIN",
+      "": ""
+    },
+    {
+      "N�": 4,
+      "Ubigeo": "010106",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CHACHAPOYAS",
+      "Distrito": "CHUQUIBAMBA",
+      "": ""
+    },
+    {
+      "N�": 5,
+      "Ubigeo": "010114",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CHACHAPOYAS",
+      "Distrito": "MOLINOPAMPA",
+      "": ""
+    },
+    {
+      "N�": 6,
+      "Ubigeo": "010117",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CHACHAPOYAS",
+      "Distrito": "QUINJALCA",
+      "": ""
+    },
+    {
+      "N�": 7,
+      "Ubigeo": "010120",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CHACHAPOYAS",
+      "Distrito": "SOLOCO",
+      "": ""
+    },
+    {
+      "N�": 8,
+      "Ubigeo": "010201",
+      "Departamento": "AMAZONAS",
+      "Provincia": "BAGUA",
+      "Distrito": "BAGUA",
+      "": ""
+    },
+    {
+      "N�": 9,
+      "Ubigeo": "010202",
+      "Departamento": "AMAZONAS",
+      "Provincia": "BAGUA",
+      "Distrito": "ARAMANGO",
+      "": ""
+    },
+    {
+      "N�": 10,
+      "Ubigeo": "010205",
+      "Departamento": "AMAZONAS",
+      "Provincia": "BAGUA",
+      "Distrito": "IMAZA",
+      "": ""
+    },
+    {
+      "N�": 11,
+      "Ubigeo": "010304",
+      "Departamento": "AMAZONAS",
+      "Provincia": "BONGARA",
+      "Distrito": "COROSHA",
+      "": ""
+    },
+    {
+      "N�": 12,
+      "Ubigeo": "010308",
+      "Departamento": "AMAZONAS",
+      "Provincia": "BONGARA",
+      "Distrito": "RECTA",
+      "": ""
+    },
+    {
+      "N�": 13,
+      "Ubigeo": "010311",
+      "Departamento": "AMAZONAS",
+      "Provincia": "BONGARA",
+      "Distrito": "VALERA",
+      "": ""
+    },
+    {
+      "N�": 14,
+      "Ubigeo": "010402",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CONDORCANQUI",
+      "Distrito": "EL CENEPA",
+      "": ""
+    },
+    {
+      "N�": 15,
+      "Ubigeo": "010403",
+      "Departamento": "AMAZONAS",
+      "Provincia": "CONDORCANQUI",
+      "Distrito": "RIO SANTIAGO",
+      "": ""
+    },
+    {
+      "N�": 16,
+      "Ubigeo": "010503",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "COCABAMBA",
+      "": ""
+    },
+    {
+      "N�": 17,
+      "Ubigeo": "010507",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "LONGUITA",
+      "": ""
+    },
+    {
+      "N�": 18,
+      "Ubigeo": "010513",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "OCUMAL",
+      "": ""
+    },
+    {
+      "N�": 19,
+      "Ubigeo": "010514",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "PISUQUIA",
+      "": ""
+    },
+    {
+      "N�": 20,
+      "Ubigeo": "010515",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "PROVIDENCIA",
+      "": ""
+    },
+    {
+      "N�": 21,
+      "Ubigeo": "010518",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "SAN JERONIMO",
+      "": ""
+    },
+    {
+      "N�": 22,
+      "Ubigeo": "010519",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "SAN JUAN DE LOPECANCHA",
+      "": ""
+    },
+    {
+      "N�": 23,
+      "Ubigeo": "010520",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "SANTA CATALINA",
+      "": ""
+    },
+    {
+      "N�": 24,
+      "Ubigeo": "010521",
+      "Departamento": "AMAZONAS",
+      "Provincia": "LUYA",
+      "Distrito": "SANTO TOMAS",
+      "": ""
+    },
+    {
+      "N�": 25,
+      "Ubigeo": "010602",
+      "Departamento": "AMAZONAS",
+      "Provincia": "RODRIGUEZ DE MENDOZA",
+      "Distrito": "CHIRIMOTO",
+      "": ""
+    },
+    {
+      "N�": 26,
+      "Ubigeo": "010604",
+      "Departamento": "AMAZONAS",
+      "Provincia": "RODRIGUEZ DE MENDOZA",
+      "Distrito": "HUAMBO",
+      "": ""
+    },
+    {
+      "N�": 27,
+      "Ubigeo": "010605",
+      "Departamento": "AMAZONAS",
+      "Provincia": "RODRIGUEZ DE MENDOZA",
+      "Distrito": "LIMABAMBA",
+      "": ""
+    },
+    {
+      "N�": 28,
+      "Ubigeo": "010609",
+      "Departamento": "AMAZONAS",
+      "Provincia": "RODRIGUEZ DE MENDOZA",
+      "Distrito": "OMIA",
+      "": ""
+    },
+    {
+      "N�": 29,
+      "Ubigeo": "010610",
+      "Departamento": "AMAZONAS",
+      "Provincia": "RODRIGUEZ DE MENDOZA",
+      "Distrito": "SANTA ROSA",
+      "": ""
+    },
+    {
+      "N�": 30,
+      "Ubigeo": "010611",
+      "Departamento": "AMAZONAS",
+      "Provincia": "RODRIGUEZ DE MENDOZA",
+      "Distrito": "TOTORA",
+      "": ""
+    },
+    {
+      "N�": 31,
+      "Ubigeo": "010612",
+      "Departamento": "AMAZONAS",
+      "Provincia": "RODRIGUEZ DE MENDOZA",
+      "Distrito": "VISTA ALEGRE",
+      "": ""
+    },
+    {
+      "N�": 32,
+      "Ubigeo": "010701",
+      "Departamento": "AMAZONAS",
+      "Provincia": "UTCUBAMBA",
+      "Distrito": "BAGUA GRANDE",
+      "": ""
+    },
+    {
+      "N�": 33,
+      "Ubigeo": "010702",
+      "Departamento": "AMAZONAS",
+      "Provincia": "UTCUBAMBA",
+      "Distrito": "CAJARURO",
+      "": ""
+    },
+    {
+      "N�": 34,
+      "Ubigeo": "010705",
+      "Departamento": "AMAZONAS",
+      "Provincia": "UTCUBAMBA",
+      "Distrito": "JAMALCA",
+      "": ""
+    },
+    {
+      "N�": 35,
+      "Ubigeo": "010707",
+      "Departamento": "AMAZONAS",
+      "Provincia": "UTCUBAMBA",
+      "Distrito": "YAMON",
+      "": ""
+    },
+    {
+      "N�": 36,
+      "Ubigeo": "020101",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "HUARAZ",
+      "": ""
+    },
+    {
+      "N�": 37,
+      "Ubigeo": "020102",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "COCHABAMBA",
+      "": ""
+    },
+    {
+      "N�": 38,
+      "Ubigeo": "020104",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "HUANCHAY",
+      "": ""
+    },
+    {
+      "N�": 39,
+      "Ubigeo": "020105",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "INDEPENDENCIA",
+      "": ""
+    },
+    {
+      "N�": 40,
+      "Ubigeo": "020107",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "LA LIBERTAD",
+      "": ""
+    },
+    {
+      "N�": 41,
+      "Ubigeo": "020109",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "PAMPAS",
+      "": ""
+    },
+    {
+      "N�": 42,
+      "Ubigeo": "020110",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "PARIACOTO",
+      "": ""
+    },
+    {
+      "N�": 43,
+      "Ubigeo": "020111",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "PIRA",
+      "": ""
+    },
+    {
+      "N�": 44,
+      "Ubigeo": "020112",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARAZ",
+      "Distrito": "TARICA",
+      "": ""
+    },
+    {
+      "N�": 45,
+      "Ubigeo": "020202",
+      "Departamento": "ANCASH",
+      "Provincia": "AIJA",
+      "Distrito": "CORIS",
+      "": ""
+    },
+    {
+      "N�": 46,
+      "Ubigeo": "020204",
+      "Departamento": "ANCASH",
+      "Provincia": "AIJA",
+      "Distrito": "LA MERCED",
+      "": ""
+    },
+    {
+      "N�": 47,
+      "Ubigeo": "020303",
+      "Departamento": "ANCASH",
+      "Provincia": "ANTONIO RAYMONDI",
+      "Distrito": "CHACCHO",
+      "": ""
+    },
+    {
+      "N�": 48,
+      "Ubigeo": "020305",
+      "Departamento": "ANCASH",
+      "Provincia": "ANTONIO RAYMONDI",
+      "Distrito": "MIRGAS",
+      "": ""
+    },
+    {
+      "N�": 49,
+      "Ubigeo": "020306",
+      "Departamento": "ANCASH",
+      "Provincia": "ANTONIO RAYMONDI",
+      "Distrito": "SAN JUAN DE RONTOY",
+      "": ""
+    },
+    {
+      "N�": 50,
+      "Ubigeo": "020402",
+      "Departamento": "ANCASH",
+      "Provincia": "ASUNCION",
+      "Distrito": "ACOCHACA",
+      "": ""
+    },
+    {
+      "N�": 51,
+      "Ubigeo": "020503",
+      "Departamento": "ANCASH",
+      "Provincia": "BOLOGNESI",
+      "Distrito": "ANTONIO RAYMONDI",
+      "": ""
+    },
+    {
+      "N�": 52,
+      "Ubigeo": "020510",
+      "Departamento": "ANCASH",
+      "Provincia": "BOLOGNESI",
+      "Distrito": "HUAYLLACAYAN",
+      "": ""
+    },
+    {
+      "N�": 53,
+      "Ubigeo": "020604",
+      "Departamento": "ANCASH",
+      "Provincia": "CARHUAZ",
+      "Distrito": "ANTA",
+      "": ""
+    },
+    {
+      "N�": 54,
+      "Ubigeo": "020605",
+      "Departamento": "ANCASH",
+      "Provincia": "CARHUAZ",
+      "Distrito": "ATAQUERO",
+      "": ""
+    },
+    {
+      "N�": 55,
+      "Ubigeo": "020608",
+      "Departamento": "ANCASH",
+      "Provincia": "CARHUAZ",
+      "Distrito": "SAN MIGUEL DE ACO",
+      "": ""
+    },
+    {
+      "N�": 56,
+      "Ubigeo": "020609",
+      "Departamento": "ANCASH",
+      "Provincia": "CARHUAZ",
+      "Distrito": "SHILLA",
+      "": ""
+    },
+    {
+      "N�": 57,
+      "Ubigeo": "020611",
+      "Departamento": "ANCASH",
+      "Provincia": "CARHUAZ",
+      "Distrito": "YUNGAR",
+      "": ""
+    },
+    {
+      "N�": 58,
+      "Ubigeo": "020702",
+      "Departamento": "ANCASH",
+      "Provincia": "CARLOS FERMIN FITZCARRALD",
+      "Distrito": "SAN NICOLAS",
+      "": ""
+    },
+    {
+      "N�": 59,
+      "Ubigeo": "020703",
+      "Departamento": "ANCASH",
+      "Provincia": "CARLOS FERMIN FITZCARRALD",
+      "Distrito": "YAUYA",
+      "": ""
+    },
+    {
+      "N�": 60,
+      "Ubigeo": "020801",
+      "Departamento": "ANCASH",
+      "Provincia": "CASMA",
+      "Distrito": "CASMA",
+      "": ""
+    },
+    {
+      "N�": 61,
+      "Ubigeo": "021002",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARI",
+      "Distrito": "ANRA",
+      "": ""
+    },
+    {
+      "N�": 62,
+      "Ubigeo": "021003",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARI",
+      "Distrito": "CAJAY",
+      "": ""
+    },
+    {
+      "N�": 63,
+      "Ubigeo": "021004",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARI",
+      "Distrito": "CHAVIN DE HUANTAR",
+      "": ""
+    },
+    {
+      "N�": 64,
+      "Ubigeo": "021011",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARI",
+      "Distrito": "PONTO",
+      "": ""
+    },
+    {
+      "N�": 65,
+      "Ubigeo": "021014",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARI",
+      "Distrito": "SAN MARCOS",
+      "": ""
+    },
+    {
+      "N�": 66,
+      "Ubigeo": "021101",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARMEY",
+      "Distrito": "HUARMEY",
+      "": ""
+    },
+    {
+      "N�": 67,
+      "Ubigeo": "021102",
+      "Departamento": "ANCASH",
+      "Provincia": "HUARMEY",
+      "Distrito": "COCHAPETI",
+      "": ""
+    },
+    {
+      "N�": 68,
+      "Ubigeo": "021203",
+      "Departamento": "ANCASH",
+      "Provincia": "HUAYLAS",
+      "Distrito": "HUATA",
+      "": ""
+    },
+    {
+      "N�": 69,
+      "Ubigeo": "021204",
+      "Departamento": "ANCASH",
+      "Provincia": "HUAYLAS",
+      "Distrito": "HUAYLAS",
+      "": ""
+    },
+    {
+      "N�": 70,
+      "Ubigeo": "021206",
+      "Departamento": "ANCASH",
+      "Provincia": "HUAYLAS",
+      "Distrito": "PAMPAROMAS",
+      "": ""
+    },
+    {
+      "N�": 71,
+      "Ubigeo": "021207",
+      "Departamento": "ANCASH",
+      "Provincia": "HUAYLAS",
+      "Distrito": "PUEBLO LIBRE",
+      "": ""
+    },
+    {
+      "N�": 72,
+      "Ubigeo": "021208",
+      "Departamento": "ANCASH",
+      "Provincia": "HUAYLAS",
+      "Distrito": "SANTA CRUZ",
+      "": ""
+    },
+    {
+      "N�": 73,
+      "Ubigeo": "021209",
+      "Departamento": "ANCASH",
+      "Provincia": "HUAYLAS",
+      "Distrito": "SANTO TORIBIO",
+      "": ""
+    },
+    {
+      "N�": 74,
+      "Ubigeo": "021210",
+      "Departamento": "ANCASH",
+      "Provincia": "HUAYLAS",
+      "Distrito": "YURACMARCA",
+      "": ""
+    },
+    {
+      "N�": 75,
+      "Ubigeo": "021302",
+      "Departamento": "ANCASH",
+      "Provincia": "MARISCAL LUZURIAGA",
+      "Distrito": "CASCA",
+      "": ""
+    },
+    {
+      "N�": 76,
+      "Ubigeo": "021303",
+      "Departamento": "ANCASH",
+      "Provincia": "MARISCAL LUZURIAGA",
+      "Distrito": "ELEAZAR GUZMAN BARRON",
+      "": ""
+    },
+    {
+      "N�": 77,
+      "Ubigeo": "021304",
+      "Departamento": "ANCASH",
+      "Provincia": "MARISCAL LUZURIAGA",
+      "Distrito": "FIDEL OLIVAS ESCUDERO",
+      "": ""
+    },
+    {
+      "N�": 78,
+      "Ubigeo": "021305",
+      "Departamento": "ANCASH",
+      "Provincia": "MARISCAL LUZURIAGA",
+      "Distrito": "LLAMA",
+      "": ""
+    },
+    {
+      "N�": 79,
+      "Ubigeo": "021306",
+      "Departamento": "ANCASH",
+      "Provincia": "MARISCAL LUZURIAGA",
+      "Distrito": "LLUMPA",
+      "": ""
+    },
+    {
+      "N�": 80,
+      "Ubigeo": "021307",
+      "Departamento": "ANCASH",
+      "Provincia": "MARISCAL LUZURIAGA",
+      "Distrito": "LUCMA",
+      "": ""
+    },
+    {
+      "N�": 81,
+      "Ubigeo": "021308",
+      "Departamento": "ANCASH",
+      "Provincia": "MARISCAL LUZURIAGA",
+      "Distrito": "MUSGA",
+      "": ""
+    },
+    {
+      "N�": 82,
+      "Ubigeo": "021405",
+      "Departamento": "ANCASH",
+      "Provincia": "OCROS",
+      "Distrito": "COCHAS",
+      "": ""
+    },
+    {
+      "N�": 83,
+      "Ubigeo": "021502",
+      "Departamento": "ANCASH",
+      "Provincia": "PALLASCA",
+      "Distrito": "BOLOGNESI",
+      "": ""
+    },
+    {
+      "N�": 84,
+      "Ubigeo": "021510",
+      "Departamento": "ANCASH",
+      "Provincia": "PALLASCA",
+      "Distrito": "SANTA ROSA",
+      "": ""
+    },
+    {
+      "N�": 85,
+      "Ubigeo": "021602",
+      "Departamento": "ANCASH",
+      "Provincia": "POMABAMBA",
+      "Distrito": "HUAYLLAN",
+      "": ""
+    },
+    {
+      "N�": 86,
+      "Ubigeo": "021603",
+      "Departamento": "ANCASH",
+      "Provincia": "POMABAMBA",
+      "Distrito": "PAROBAMBA",
+      "": ""
+    },
+    {
+      "N�": 87,
+      "Ubigeo": "021604",
+      "Departamento": "ANCASH",
+      "Provincia": "POMABAMBA",
+      "Distrito": "QUINUABAMBA",
+      "": ""
+    },
+    {
+      "N�": 88,
+      "Ubigeo": "021708",
+      "Departamento": "ANCASH",
+      "Provincia": "RECUAY",
+      "Distrito": "PARARIN",
+      "": ""
+    },
+    {
+      "N�": 89,
+      "Ubigeo": "021801",
+      "Departamento": "ANCASH",
+      "Provincia": "SANTA",
+      "Distrito": "CHIMBOTE",
+      "": ""
+    },
+    {
+      "N�": 90,
+      "Ubigeo": "021802",
+      "Departamento": "ANCASH",
+      "Provincia": "SANTA",
+      "Distrito": "CACERES DEL PERU",
+      "": ""
+    },
+    {
+      "N�": 91,
+      "Ubigeo": "021803",
+      "Departamento": "ANCASH",
+      "Provincia": "SANTA",
+      "Distrito": "COISHCO",
+      "": ""
+    },
+    {
+      "N�": 92,
+      "Ubigeo": "021804",
+      "Departamento": "ANCASH",
+      "Provincia": "SANTA",
+      "Distrito": "MACATE",
+      "": ""
+    },
+    {
+      "N�": 93,
+      "Ubigeo": "021809",
+      "Departamento": "ANCASH",
+      "Provincia": "SANTA",
+      "Distrito": "NUEVO CHIMBOTE",
+      "": ""
+    },
+    {
+      "N�": 94,
+      "Ubigeo": "021904",
+      "Departamento": "ANCASH",
+      "Provincia": "SIHUAS",
+      "Distrito": "CASHAPAMPA",
+      "": ""
+    },
+    {
+      "N�": 95,
+      "Ubigeo": "021906",
+      "Departamento": "ANCASH",
+      "Provincia": "SIHUAS",
+      "Distrito": "HUAYLLABAMBA",
+      "": ""
+    },
+    {
+      "N�": 96,
+      "Ubigeo": "021907",
+      "Departamento": "ANCASH",
+      "Provincia": "SIHUAS",
+      "Distrito": "QUICHES",
+      "": ""
+    },
+    {
+      "N�": 97,
+      "Ubigeo": "021908",
+      "Departamento": "ANCASH",
+      "Provincia": "SIHUAS",
+      "Distrito": "RAGASH",
+      "": ""
+    },
+    {
+      "N�": 98,
+      "Ubigeo": "021909",
+      "Departamento": "ANCASH",
+      "Provincia": "SIHUAS",
+      "Distrito": "SAN JUAN",
+      "": ""
+    },
+    {
+      "N�": 99,
+      "Ubigeo": "022002",
+      "Departamento": "ANCASH",
+      "Provincia": "YUNGAY",
+      "Distrito": "CASCAPARA",
+      "": ""
+    },
+    {
+      "N�": 100,
+      "Ubigeo": "022004",
+      "Departamento": "ANCASH",
+      "Provincia": "YUNGAY",
+      "Distrito": "MATACOTO",
+      "": ""
+    },
+    {
+      "N�": 101,
+      "Ubigeo": "022005",
+      "Departamento": "ANCASH",
+      "Provincia": "YUNGAY",
+      "Distrito": "QUILLO",
+      "": ""
+    },
+    {
+      "N�": 102,
+      "Ubigeo": "022007",
+      "Departamento": "ANCASH",
+      "Provincia": "YUNGAY",
+      "Distrito": "SHUPLUY",
+      "": ""
+    },
+    {
+      "N�": 103,
+      "Ubigeo": "022008",
+      "Departamento": "ANCASH",
+      "Provincia": "YUNGAY",
+      "Distrito": "YANAMA",
+      "": ""
+    },
+    {
+      "N�": 104,
+      "Ubigeo": "030101",
+      "Departamento": "APURIMAC",
+      "Provincia": "ABANCAY",
+      "Distrito": "ABANCAY",
+      "": ""
+    },
+    {
+      "N�": 105,
+      "Ubigeo": "030103",
+      "Departamento": "APURIMAC",
+      "Provincia": "ABANCAY",
+      "Distrito": "CIRCA",
+      "": ""
+    },
+    {
+      "N�": 106,
+      "Ubigeo": "030105",
+      "Departamento": "APURIMAC",
+      "Provincia": "ABANCAY",
+      "Distrito": "HUANIPACA",
+      "": ""
+    },
+    {
+      "N�": 107,
+      "Ubigeo": "030107",
+      "Departamento": "APURIMAC",
+      "Provincia": "ABANCAY",
+      "Distrito": "PICHIRHUA",
+      "": ""
+    },
+    {
+      "N�": 108,
+      "Ubigeo": "030108",
+      "Departamento": "APURIMAC",
+      "Provincia": "ABANCAY",
+      "Distrito": "SAN PEDRO DE CACHORA",
+      "": ""
+    },
+    {
+      "N�": 109,
+      "Ubigeo": "030109",
+      "Departamento": "APURIMAC",
+      "Provincia": "ABANCAY",
+      "Distrito": "TAMBURCO",
+      "": ""
+    },
+    {
+      "N�": 110,
+      "Ubigeo": "030201",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "ANDAHUAYLAS",
+      "": ""
+    },
+    {
+      "N�": 111,
+      "Ubigeo": "030202",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "ANDARAPA",
+      "": ""
+    },
+    {
+      "N�": 112,
+      "Ubigeo": "030205",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "HUANCARAY",
+      "": ""
+    },
+    {
+      "N�": 113,
+      "Ubigeo": "030207",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "KISHUARA",
+      "": ""
+    },
+    {
+      "N�": 114,
+      "Ubigeo": "030208",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "PACOBAMBA",
+      "": ""
+    },
+    {
+      "N�": 115,
+      "Ubigeo": "030209",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "PACUCHA",
+      "": ""
+    },
+    {
+      "N�": 116,
+      "Ubigeo": "030210",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "PAMPACHIRI",
+      "": ""
+    },
+    {
+      "N�": 117,
+      "Ubigeo": "030213",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "SAN JERONIMO",
+      "": ""
+    },
+    {
+      "N�": 118,
+      "Ubigeo": "030216",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "TALAVERA",
+      "": ""
+    },
+    {
+      "N�": 119,
+      "Ubigeo": "030217",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "TUMAY HUARACA",
+      "": ""
+    },
+    {
+      "N�": 120,
+      "Ubigeo": "030218",
+      "Departamento": "APURIMAC",
+      "Provincia": "ANDAHUAYLAS",
+      "Distrito": "TURPO",
+      "": ""
+    },
+    {
+      "N�": 121,
+      "Ubigeo": "030406",
+      "Departamento": "APURIMAC",
+      "Provincia": "AYMARAES",
+      "Distrito": "COTARUSE",
+      "": ""
+    },
+    {
+      "N�": 122,
+      "Ubigeo": "030407",
+      "Departamento": "APURIMAC",
+      "Provincia": "AYMARAES",
+      "Distrito": "IHUAYLLO",
+      "": ""
+    },
+    {
+      "N�": 123,
+      "Ubigeo": "030408",
+      "Departamento": "APURIMAC",
+      "Provincia": "AYMARAES",
+      "Distrito": "JUSTO APU SAHUARAURA",
+      "": ""
+    },
+    {
+      "N�": 124,
+      "Ubigeo": "030409",
+      "Departamento": "APURIMAC",
+      "Provincia": "AYMARAES",
+      "Distrito": "LUCRE",
+      "": ""
+    },
+    {
+      "N�": 125,
+      "Ubigeo": "030413",
+      "Departamento": "APURIMAC",
+      "Provincia": "AYMARAES",
+      "Distrito": "SORAYA",
+      "": ""
+    },
+    {
+      "N�": 126,
+      "Ubigeo": "030414",
+      "Departamento": "APURIMAC",
+      "Provincia": "AYMARAES",
+      "Distrito": "TAPAIRIHUA",
+      "": ""
+    },
+    {
+      "N�": 127,
+      "Ubigeo": "030415",
+      "Departamento": "APURIMAC",
+      "Provincia": "AYMARAES",
+      "Distrito": "TINTAY",
+      "": ""
+    },
+    {
+      "N�": 128,
+      "Ubigeo": "030416",
+      "Departamento": "APURIMAC",
+      "Provincia": "AYMARAES",
+      "Distrito": "TORAYA",
+      "": ""
+    },
+    {
+      "N�": 129,
+      "Ubigeo": "030503",
+      "Departamento": "APURIMAC",
+      "Provincia": "COTABAMBAS",
+      "Distrito": "COYLLURQUI",
+      "": ""
+    },
+    {
+      "N�": 130,
+      "Ubigeo": "030505",
+      "Departamento": "APURIMAC",
+      "Provincia": "COTABAMBAS",
+      "Distrito": "MARA",
+      "": ""
+    },
+    {
+      "N�": 131,
+      "Ubigeo": "030603",
+      "Departamento": "APURIMAC",
+      "Provincia": "CHINCHEROS",
+      "Distrito": "COCHARCAS",
+      "": ""
+    },
+    {
+      "N�": 132,
+      "Ubigeo": "030605",
+      "Departamento": "APURIMAC",
+      "Provincia": "CHINCHEROS",
+      "Distrito": "OCOBAMBA",
+      "": ""
+    },
+    {
+      "N�": 133,
+      "Ubigeo": "030606",
+      "Departamento": "APURIMAC",
+      "Provincia": "CHINCHEROS",
+      "Distrito": "ONGOY",
+      "": ""
+    },
+    {
+      "N�": 134,
+      "Ubigeo": "030608",
+      "Departamento": "APURIMAC",
+      "Provincia": "CHINCHEROS",
+      "Distrito": "RANRACANCHA",
+      "": ""
+    },
+    {
+      "N�": 135,
+      "Ubigeo": "030609",
+      "Departamento": "APURIMAC",
+      "Provincia": "CHINCHEROS",
+      "Distrito": "ROCCHACC",
+      "": ""
+    },
+    {
+      "N�": 136,
+      "Ubigeo": "030611",
+      "Departamento": "APURIMAC",
+      "Provincia": "CHINCHEROS",
+      "Distrito": "LOS CHANKAS",
+      "": ""
+    },
+    {
+      "N�": 137,
+      "Ubigeo": "030702",
+      "Departamento": "APURIMAC",
+      "Provincia": "GRAU",
+      "Distrito": "CURPAHUASI",
+      "": ""
+    },
+    {
+      "N�": 138,
+      "Ubigeo": "030703",
+      "Departamento": "APURIMAC",
+      "Provincia": "GRAU",
+      "Distrito": "GAMARRA",
+      "": ""
+    },
+    {
+      "N�": 139,
+      "Ubigeo": "030704",
+      "Departamento": "APURIMAC",
+      "Provincia": "GRAU",
+      "Distrito": "HUAYLLATI",
+      "": ""
+    },
+    {
+      "N�": 140,
+      "Ubigeo": "040101",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "AREQUIPA",
+      "": ""
+    },
+    {
+      "N�": 141,
+      "Ubigeo": "040102",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "ALTO SELVA ALEGRE",
+      "": ""
+    },
+    {
+      "N�": 142,
+      "Ubigeo": "040103",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "CAYMA",
+      "": ""
+    },
+    {
+      "N�": 143,
+      "Ubigeo": "040104",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "CERRO COLORADO",
+      "": ""
+    },
+    {
+      "N�": 144,
+      "Ubigeo": "040105",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "CHARACATO",
+      "": ""
+    },
+    {
+      "N�": 145,
+      "Ubigeo": "040106",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "CHIGUATA",
+      "": ""
+    },
+    {
+      "N�": 146,
+      "Ubigeo": "040107",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "JACOBO HUNTER",
+      "": ""
+    },
+    {
+      "N�": 147,
+      "Ubigeo": "040109",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "MARIANO MELGAR",
+      "": ""
+    },
+    {
+      "N�": 148,
+      "Ubigeo": "040110",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "MIRAFLORES",
+      "": ""
+    },
+    {
+      "N�": 149,
+      "Ubigeo": "040111",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "MOLLEBAYA",
+      "": ""
+    },
+    {
+      "N�": 150,
+      "Ubigeo": "040112",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "PAUCARPATA",
+      "": ""
+    },
+    {
+      "N�": 151,
+      "Ubigeo": "040116",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "SABANDIA",
+      "": ""
+    },
+    {
+      "N�": 152,
+      "Ubigeo": "040117",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "SACHACA",
+      "": ""
+    },
+    {
+      "N�": 153,
+      "Ubigeo": "040120",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "SANTA ISABEL DE SIGUAS",
+      "": ""
+    },
+    {
+      "N�": 154,
+      "Ubigeo": "040122",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "SOCABAYA",
+      "": ""
+    },
+    {
+      "N�": 155,
+      "Ubigeo": "040123",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "TIABAYA",
+      "": ""
+    },
+    {
+      "N�": 156,
+      "Ubigeo": "040126",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "YANAHUARA",
+      "": ""
+    },
+    {
+      "N�": 157,
+      "Ubigeo": "040128",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "YURA",
+      "": ""
+    },
+    {
+      "N�": 158,
+      "Ubigeo": "040129",
+      "Departamento": "AREQUIPA",
+      "Provincia": "AREQUIPA",
+      "Distrito": "JOSE LUIS BUSTAMANTE Y RIVERO",
+      "": ""
+    },
+    {
+      "N�": 159,
+      "Ubigeo": "040203",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CAMANA",
+      "Distrito": "MARIANO NICOLAS VALCARCEL",
+      "": ""
+    },
+    {
+      "N�": 160,
+      "Ubigeo": "040207",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CAMANA",
+      "Distrito": "QUILCA",
+      "": ""
+    },
+    {
+      "N�": 161,
+      "Ubigeo": "040304",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CARAVELI",
+      "Distrito": "ATIQUIPA",
+      "": ""
+    },
+    {
+      "N�": 162,
+      "Ubigeo": "040306",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CARAVELI",
+      "Distrito": "CAHUACHO",
+      "": ""
+    },
+    {
+      "N�": 163,
+      "Ubigeo": "040309",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CARAVELI",
+      "Distrito": "HUANUHUANU",
+      "": ""
+    },
+    {
+      "N�": 164,
+      "Ubigeo": "040411",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CASTILLA",
+      "Distrito": "TIPAN",
+      "": ""
+    },
+    {
+      "N�": 165,
+      "Ubigeo": "040516",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CAYLLOMA",
+      "Distrito": "TAPAY",
+      "": ""
+    },
+    {
+      "N�": 166,
+      "Ubigeo": "040520",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CAYLLOMA",
+      "Distrito": "MAJES",
+      "": ""
+    },
+    {
+      "N�": 167,
+      "Ubigeo": "040602",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CONDESUYOS",
+      "Distrito": "ANDARAY",
+      "": ""
+    },
+    {
+      "N�": 168,
+      "Ubigeo": "040603",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CONDESUYOS",
+      "Distrito": "CAYARANI",
+      "": ""
+    },
+    {
+      "N�": 169,
+      "Ubigeo": "040608",
+      "Departamento": "AREQUIPA",
+      "Provincia": "CONDESUYOS",
+      "Distrito": "YANAQUIHUA",
+      "": ""
+    },
+    {
+      "N�": 170,
+      "Ubigeo": "040701",
+      "Departamento": "AREQUIPA",
+      "Provincia": "ISLAY",
+      "Distrito": "MOLLENDO",
+      "": ""
+    },
+    {
+      "N�": 171,
+      "Ubigeo": "040807",
+      "Departamento": "AREQUIPA",
+      "Provincia": "LA UNION",
+      "Distrito": "QUECHUALLA",
+      "": ""
+    },
+    {
+      "N�": 172,
+      "Ubigeo": "050101",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "AYACUCHO",
+      "": ""
+    },
+    {
+      "N�": 173,
+      "Ubigeo": "050102",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "ACOCRO",
+      "": ""
+    },
+    {
+      "N�": 174,
+      "Ubigeo": "050103",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "ACOS VINCHOS",
+      "": ""
+    },
+    {
+      "N�": 175,
+      "Ubigeo": "050104",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "CARMEN ALTO",
+      "": ""
+    },
+    {
+      "N�": 176,
+      "Ubigeo": "050106",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "OCROS",
+      "": ""
+    },
+    {
+      "N�": 177,
+      "Ubigeo": "050109",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "SAN JOSE DE TICLLAS",
+      "": ""
+    },
+    {
+      "N�": 178,
+      "Ubigeo": "050110",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "SAN JUAN BAUTISTA",
+      "": ""
+    },
+    {
+      "N�": 179,
+      "Ubigeo": "050112",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "SOCOS",
+      "": ""
+    },
+    {
+      "N�": 180,
+      "Ubigeo": "050113",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "TAMBILLO",
+      "": ""
+    },
+    {
+      "N�": 181,
+      "Ubigeo": "050114",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "VINCHOS",
+      "": ""
+    },
+    {
+      "N�": 182,
+      "Ubigeo": "050115",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "JESUS NAZARENO",
+      "": ""
+    },
+    {
+      "N�": 183,
+      "Ubigeo": "050116",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUAMANGA",
+      "Distrito": "ANDRES AVELINO CACERES DORREGARAY",
+      "": ""
+    },
+    {
+      "N�": 184,
+      "Ubigeo": "050204",
+      "Departamento": "AYACUCHO",
+      "Provincia": "CANGALLO",
+      "Distrito": "MARIA PARADO DE BELLIDO",
+      "": ""
+    },
+    {
+      "N�": 185,
+      "Ubigeo": "050205",
+      "Departamento": "AYACUCHO",
+      "Provincia": "CANGALLO",
+      "Distrito": "PARAS",
+      "": ""
+    },
+    {
+      "N�": 186,
+      "Ubigeo": "050401",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUANTA",
+      "Distrito": "HUANTA",
+      "": ""
+    },
+    {
+      "N�": 187,
+      "Ubigeo": "050404",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUANTA",
+      "Distrito": "IGUAIN",
+      "": ""
+    },
+    {
+      "N�": 188,
+      "Ubigeo": "050406",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUANTA",
+      "Distrito": "SANTILLANA",
+      "": ""
+    },
+    {
+      "N�": 189,
+      "Ubigeo": "050410",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUANTA",
+      "Distrito": "UCHURACCAY",
+      "": ""
+    },
+    {
+      "N�": 190,
+      "Ubigeo": "050411",
+      "Departamento": "AYACUCHO",
+      "Provincia": "HUANTA",
+      "Distrito": "PUCACOLPA",
+      "": ""
+    },
+    {
+      "N�": 191,
+      "Ubigeo": "050502",
+      "Departamento": "AYACUCHO",
+      "Provincia": "LA MAR",
+      "Distrito": "ANCO",
+      "": ""
+    },
+    {
+      "N�": 192,
+      "Ubigeo": "050504",
+      "Departamento": "AYACUCHO",
+      "Provincia": "LA MAR",
+      "Distrito": "CHILCAS",
+      "": ""
+    },
+    {
+      "N�": 193,
+      "Ubigeo": "050505",
+      "Departamento": "AYACUCHO",
+      "Provincia": "LA MAR",
+      "Distrito": "CHUNGUI",
+      "": ""
+    },
+    {
+      "N�": 194,
+      "Ubigeo": "050506",
+      "Departamento": "AYACUCHO",
+      "Provincia": "LA MAR",
+      "Distrito": "LUIS CARRANZA",
+      "": ""
+    },
+    {
+      "N�": 195,
+      "Ubigeo": "050510",
+      "Departamento": "AYACUCHO",
+      "Provincia": "LA MAR",
+      "Distrito": "ANCHIHUAY",
+      "": ""
+    },
+    {
+      "N�": 196,
+      "Ubigeo": "050511",
+      "Departamento": "AYACUCHO",
+      "Provincia": "LA MAR",
+      "Distrito": "ORONCCOY",
+      "": ""
+    },
+    {
+      "N�": 197,
+      "Ubigeo": "050607",
+      "Departamento": "AYACUCHO",
+      "Provincia": "LUCANAS",
+      "Distrito": "HUAC-HUAS",
+      "": ""
+    },
+    {
+      "N�": 198,
+      "Ubigeo": "050613",
+      "Departamento": "AYACUCHO",
+      "Provincia": "LUCANAS",
+      "Distrito": "OTOCA",
+      "": ""
+    },
+    {
+      "N�": 199,
+      "Ubigeo": "050703",
+      "Departamento": "AYACUCHO",
+      "Provincia": "PARINACOCHAS",
+      "Distrito": "CORONEL CASTA�EDA",
+      "": ""
+    },
+    {
+      "N�": 200,
+      "Ubigeo": "050708",
+      "Departamento": "AYACUCHO",
+      "Provincia": "PARINACOCHAS",
+      "Distrito": "UPAHUACHO",
+      "": ""
+    },
+    {
+      "N�": 201,
+      "Ubigeo": "050808",
+      "Departamento": "AYACUCHO",
+      "Provincia": "PAUCAR DEL SARA SARA",
+      "Distrito": "SAN JAVIER DE ALPABAMBA",
+      "": ""
+    },
+    {
+      "N�": 202,
+      "Ubigeo": "050909",
+      "Departamento": "AYACUCHO",
+      "Provincia": "SUCRE",
+      "Distrito": "SAN SALVADOR DE QUIJE",
+      "": ""
+    },
+    {
+      "N�": 203,
+      "Ubigeo": "051004",
+      "Departamento": "AYACUCHO",
+      "Provincia": "VICTOR FAJARDO",
+      "Distrito": "ASQUIPATA",
+      "": ""
+    },
+    {
+      "N�": 204,
+      "Ubigeo": "051012",
+      "Departamento": "AYACUCHO",
+      "Provincia": "VICTOR FAJARDO",
+      "Distrito": "VILCANCHOS",
+      "": ""
+    },
+    {
+      "N�": 205,
+      "Ubigeo": "051104",
+      "Departamento": "AYACUCHO",
+      "Provincia": "VILCAS HUAMAN",
+      "Distrito": "CONCEPCION",
+      "": ""
+    },
+    {
+      "N�": 206,
+      "Ubigeo": "051107",
+      "Departamento": "AYACUCHO",
+      "Provincia": "VILCAS HUAMAN",
+      "Distrito": "SAURAMA",
+      "": ""
+    },
+    {
+      "N�": 207,
+      "Ubigeo": "060101",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "CAJAMARCA",
+      "": ""
+    },
+    {
+      "N�": 208,
+      "Ubigeo": "060102",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "ASUNCION",
+      "": ""
+    },
+    {
+      "N�": 209,
+      "Ubigeo": "060103",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "CHETILLA",
+      "": ""
+    },
+    {
+      "N�": 210,
+      "Ubigeo": "060104",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "COSPAN",
+      "": ""
+    },
+    {
+      "N�": 211,
+      "Ubigeo": "060105",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "ENCA�ADA",
+      "": ""
+    },
+    {
+      "N�": 212,
+      "Ubigeo": "060106",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "JESUS",
+      "": ""
+    },
+    {
+      "N�": 213,
+      "Ubigeo": "060107",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "LLACANORA",
+      "": ""
+    },
+    {
+      "N�": 214,
+      "Ubigeo": "060108",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "LOS BA�OS DEL INCA",
+      "": ""
+    },
+    {
+      "N�": 215,
+      "Ubigeo": "060109",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "MAGDALENA",
+      "": ""
+    },
+    {
+      "N�": 216,
+      "Ubigeo": "060110",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "MATARA",
+      "": ""
+    },
+    {
+      "N�": 217,
+      "Ubigeo": "060111",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "NAMORA",
+      "": ""
+    },
+    {
+      "N�": 218,
+      "Ubigeo": "060112",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJAMARCA",
+      "Distrito": "SAN JUAN",
+      "": ""
+    },
+    {
+      "N�": 219,
+      "Ubigeo": "060202",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJABAMBA",
+      "Distrito": "CACHACHI",
+      "": ""
+    },
+    {
+      "N�": 220,
+      "Ubigeo": "060203",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJABAMBA",
+      "Distrito": "CONDEBAMBA",
+      "": ""
+    },
+    {
+      "N�": 221,
+      "Ubigeo": "060204",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CAJABAMBA",
+      "Distrito": "SITACOCHA",
+      "": ""
+    },
+    {
+      "N�": 222,
+      "Ubigeo": "060302",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "CHUMUCH",
+      "": ""
+    },
+    {
+      "N�": 223,
+      "Ubigeo": "060303",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "CORTEGANA",
+      "": ""
+    },
+    {
+      "N�": 224,
+      "Ubigeo": "060304",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "HUASMIN",
+      "": ""
+    },
+    {
+      "N�": 225,
+      "Ubigeo": "060306",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "JOSE GALVEZ",
+      "": ""
+    },
+    {
+      "N�": 226,
+      "Ubigeo": "060307",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "MIGUEL IGLESIAS",
+      "": ""
+    },
+    {
+      "N�": 227,
+      "Ubigeo": "060308",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "OXAMARCA",
+      "": ""
+    },
+    {
+      "N�": 228,
+      "Ubigeo": "060309",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "SOROCHUCO",
+      "": ""
+    },
+    {
+      "N�": 229,
+      "Ubigeo": "060310",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "SUCRE",
+      "": ""
+    },
+    {
+      "N�": 230,
+      "Ubigeo": "060311",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "UTCO",
+      "": ""
+    },
+    {
+      "N�": 231,
+      "Ubigeo": "060312",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CELENDIN",
+      "Distrito": "LA LIBERTAD DE PALLAN",
+      "": ""
+    },
+    {
+      "N�": 232,
+      "Ubigeo": "060401",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "CHOTA",
+      "": ""
+    },
+    {
+      "N�": 233,
+      "Ubigeo": "060402",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "ANGUIA",
+      "": ""
+    },
+    {
+      "N�": 234,
+      "Ubigeo": "060403",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "CHADIN",
+      "": ""
+    },
+    {
+      "N�": 235,
+      "Ubigeo": "060404",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "CHIGUIRIP",
+      "": ""
+    },
+    {
+      "N�": 236,
+      "Ubigeo": "060405",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "CHIMBAN",
+      "": ""
+    },
+    {
+      "N�": 237,
+      "Ubigeo": "060406",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "CHOROPAMPA",
+      "": ""
+    },
+    {
+      "N�": 238,
+      "Ubigeo": "060407",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "COCHABAMBA",
+      "": ""
+    },
+    {
+      "N�": 239,
+      "Ubigeo": "060408",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "CONCHAN",
+      "": ""
+    },
+    {
+      "N�": 240,
+      "Ubigeo": "060409",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "HUAMBOS",
+      "": ""
+    },
+    {
+      "N�": 241,
+      "Ubigeo": "060410",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "LAJAS",
+      "": ""
+    },
+    {
+      "N�": 242,
+      "Ubigeo": "060412",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "MIRACOSTA",
+      "": ""
+    },
+    {
+      "N�": 243,
+      "Ubigeo": "060413",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "PACCHA",
+      "": ""
+    },
+    {
+      "N�": 244,
+      "Ubigeo": "060415",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "QUEROCOTO",
+      "": ""
+    },
+    {
+      "N�": 245,
+      "Ubigeo": "060416",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "SAN JUAN DE LICUPIS",
+      "": ""
+    },
+    {
+      "N�": 246,
+      "Ubigeo": "060417",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "TACABAMBA",
+      "": ""
+    },
+    {
+      "N�": 247,
+      "Ubigeo": "060418",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "TOCMOCHE",
+      "": ""
+    },
+    {
+      "N�": 248,
+      "Ubigeo": "060419",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CHOTA",
+      "Distrito": "CHALAMARCA",
+      "": ""
+    },
+    {
+      "N�": 249,
+      "Ubigeo": "060503",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CONTUMAZA",
+      "Distrito": "CUPISNIQUE",
+      "": ""
+    },
+    {
+      "N�": 250,
+      "Ubigeo": "060504",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CONTUMAZA",
+      "Distrito": "GUZMANGO",
+      "": ""
+    },
+    {
+      "N�": 251,
+      "Ubigeo": "060505",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CONTUMAZA",
+      "Distrito": "SAN BENITO",
+      "": ""
+    },
+    {
+      "N�": 252,
+      "Ubigeo": "060506",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CONTUMAZA",
+      "Distrito": "SANTA CRUZ DE TOLED",
+      "": ""
+    },
+    {
+      "N�": 253,
+      "Ubigeo": "060601",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "CUTERVO",
+      "": ""
+    },
+    {
+      "N�": 254,
+      "Ubigeo": "060602",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "CALLAYUC",
+      "": ""
+    },
+    {
+      "N�": 255,
+      "Ubigeo": "060603",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "CHOROS",
+      "": ""
+    },
+    {
+      "N�": 256,
+      "Ubigeo": "060604",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "CUJILLO",
+      "": ""
+    },
+    {
+      "N�": 257,
+      "Ubigeo": "060605",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "LA RAMADA",
+      "": ""
+    },
+    {
+      "N�": 258,
+      "Ubigeo": "060606",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "PIMPINGOS",
+      "": ""
+    },
+    {
+      "N�": 259,
+      "Ubigeo": "060607",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "QUEROCOTILLO",
+      "": ""
+    },
+    {
+      "N�": 260,
+      "Ubigeo": "060608",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "SAN ANDRES DE CUTERVO",
+      "": ""
+    },
+    {
+      "N�": 261,
+      "Ubigeo": "060609",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "SAN JUAN DE CUTERVO",
+      "": ""
+    },
+    {
+      "N�": 262,
+      "Ubigeo": "060610",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "SAN LUIS DE LUCMA",
+      "": ""
+    },
+    {
+      "N�": 263,
+      "Ubigeo": "060611",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "SANTA CRUZ",
+      "": ""
+    },
+    {
+      "N�": 264,
+      "Ubigeo": "060612",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "SANTO DOMINGO DE LA CAPILLA",
+      "": ""
+    },
+    {
+      "N�": 265,
+      "Ubigeo": "060613",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "SANTO TOMAS",
+      "": ""
+    },
+    {
+      "N�": 266,
+      "Ubigeo": "060614",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "SOCOTA",
+      "": ""
+    },
+    {
+      "N�": 267,
+      "Ubigeo": "060615",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "CUTERVO",
+      "Distrito": "TORIBIO CASANOVA",
+      "": ""
+    },
+    {
+      "N�": 268,
+      "Ubigeo": "060702",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "HUALGAYOC",
+      "Distrito": "CHUGUR",
+      "": ""
+    },
+    {
+      "N�": 269,
+      "Ubigeo": "060703",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "HUALGAYOC",
+      "Distrito": "HUALGAYOC",
+      "": ""
+    },
+    {
+      "N�": 270,
+      "Ubigeo": "060801",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "JAEN",
+      "": ""
+    },
+    {
+      "N�": 271,
+      "Ubigeo": "060803",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "CHONTALI",
+      "": ""
+    },
+    {
+      "N�": 272,
+      "Ubigeo": "060804",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "COLASAY",
+      "": ""
+    },
+    {
+      "N�": 273,
+      "Ubigeo": "060805",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "HUABAL",
+      "": ""
+    },
+    {
+      "N�": 274,
+      "Ubigeo": "060806",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "LAS PIRIAS",
+      "": ""
+    },
+    {
+      "N�": 275,
+      "Ubigeo": "060807",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "POMAHUACA",
+      "": ""
+    },
+    {
+      "N�": 276,
+      "Ubigeo": "060809",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "SALLIQUE",
+      "": ""
+    },
+    {
+      "N�": 277,
+      "Ubigeo": "060810",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "SAN FELIPE",
+      "": ""
+    },
+    {
+      "N�": 278,
+      "Ubigeo": "060811",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "SAN JOSE DEL ALTO",
+      "": ""
+    },
+    {
+      "N�": 279,
+      "Ubigeo": "060812",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "JAEN",
+      "Distrito": "SANTA ROSA",
+      "": ""
+    },
+    {
+      "N�": 280,
+      "Ubigeo": "060902",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN IGNACIO",
+      "Distrito": "CHIRINOS",
+      "": ""
+    },
+    {
+      "N�": 281,
+      "Ubigeo": "060903",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN IGNACIO",
+      "Distrito": "HUARANGO",
+      "": ""
+    },
+    {
+      "N�": 282,
+      "Ubigeo": "060904",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN IGNACIO",
+      "Distrito": "LA COIPA",
+      "": ""
+    },
+    {
+      "N�": 283,
+      "Ubigeo": "060905",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN IGNACIO",
+      "Distrito": "NAMBALLE",
+      "": ""
+    },
+    {
+      "N�": 284,
+      "Ubigeo": "060906",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN IGNACIO",
+      "Distrito": "SAN JOSE DE LOURDES",
+      "": ""
+    },
+    {
+      "N�": 285,
+      "Ubigeo": "060907",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN IGNACIO",
+      "Distrito": "TABACONAS",
+      "": ""
+    },
+    {
+      "N�": 286,
+      "Ubigeo": "061002",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MARCOS",
+      "Distrito": "CHANCAY",
+      "": ""
+    },
+    {
+      "N�": 287,
+      "Ubigeo": "061004",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MARCOS",
+      "Distrito": "GREGORIO PITA",
+      "": ""
+    },
+    {
+      "N�": 288,
+      "Ubigeo": "061005",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MARCOS",
+      "Distrito": "ICHOCAN",
+      "": ""
+    },
+    {
+      "N�": 289,
+      "Ubigeo": "061006",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MARCOS",
+      "Distrito": "JOSE MANUEL QUIROZ",
+      "": ""
+    },
+    {
+      "N�": 290,
+      "Ubigeo": "061007",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MARCOS",
+      "Distrito": "JOSE SABOGAL",
+      "": ""
+    },
+    {
+      "N�": 291,
+      "Ubigeo": "061103",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "CALQUIS",
+      "": ""
+    },
+    {
+      "N�": 292,
+      "Ubigeo": "061104",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "CATILLUC",
+      "": ""
+    },
+    {
+      "N�": 293,
+      "Ubigeo": "061105",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "EL PRADO",
+      "": ""
+    },
+    {
+      "N�": 294,
+      "Ubigeo": "061106",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "LA FLORIDA",
+      "": ""
+    },
+    {
+      "N�": 295,
+      "Ubigeo": "061107",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "LLAPA",
+      "": ""
+    },
+    {
+      "N�": 296,
+      "Ubigeo": "061108",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "NANCHOC",
+      "": ""
+    },
+    {
+      "N�": 297,
+      "Ubigeo": "061109",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "NIEPOS",
+      "": ""
+    },
+    {
+      "N�": 298,
+      "Ubigeo": "061110",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "SAN GREGORIO",
+      "": ""
+    },
+    {
+      "N�": 299,
+      "Ubigeo": "061111",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "SAN SILVESTRE DE COCHAN",
+      "": ""
+    },
+    {
+      "N�": 300,
+      "Ubigeo": "061112",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "TONGOD",
+      "": ""
+    },
+    {
+      "N�": 301,
+      "Ubigeo": "061113",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN MIGUEL",
+      "Distrito": "UNION AGUA BLANCA",
+      "": ""
+    },
+    {
+      "N�": 302,
+      "Ubigeo": "061202",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN PABLO",
+      "Distrito": "SAN BERNARDINO",
+      "": ""
+    },
+    {
+      "N�": 303,
+      "Ubigeo": "061203",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN PABLO",
+      "Distrito": "SAN LUIS",
+      "": ""
+    },
+    {
+      "N�": 304,
+      "Ubigeo": "061204",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SAN PABLO",
+      "Distrito": "TUMBADEN",
+      "": ""
+    },
+    {
+      "N�": 305,
+      "Ubigeo": "061302",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "ANDABAMBA",
+      "": ""
+    },
+    {
+      "N�": 306,
+      "Ubigeo": "061303",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "CATACHE",
+      "": ""
+    },
+    {
+      "N�": 307,
+      "Ubigeo": "061304",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "CHANCAYBA�OS",
+      "": ""
+    },
+    {
+      "N�": 308,
+      "Ubigeo": "061305",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "LA ESPERANZA",
+      "": ""
+    },
+    {
+      "N�": 309,
+      "Ubigeo": "061306",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "NINABAMBA",
+      "": ""
+    },
+    {
+      "N�": 310,
+      "Ubigeo": "061307",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "PULAN",
+      "": ""
+    },
+    {
+      "N�": 311,
+      "Ubigeo": "061308",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "SAUCEPAMPA",
+      "": ""
+    },
+    {
+      "N�": 312,
+      "Ubigeo": "061310",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "UTICYACU",
+      "": ""
+    },
+    {
+      "N�": 313,
+      "Ubigeo": "061311",
+      "Departamento": "CAJAMARCA",
+      "Provincia": "SANTA CRUZ",
+      "Distrito": "YAUYUCAN",
+      "": ""
+    },
+    {
+      "N�": 314,
+      "Ubigeo": "070101",
+      "Departamento": "CALLAO",
+      "Provincia": "CALLAO",
+      "Distrito": "CALLAO",
+      "": ""
+    },
+    {
+      "N�": 315,
+      "Ubigeo": "070102",
+      "Departamento": "CALLAO",
+      "Provincia": "CALLAO",
+      "Distrito": "BELLAVISTA",
+      "": ""
+    },
+    {
+      "N�": 316,
+      "Ubigeo": "070103",
+      "Departamento": "CALLAO",
+      "Provincia": "CALLAO",
+      "Distrito": "CARMEN DE LA LEGUA REYNOSO",
+      "": ""
+    },
+    {
+      "N�": 317,
+      "Ubigeo": "070104",
+      "Departamento": "CALLAO",
+      "Provincia": "CALLAO",
+      "Distrito": "LA PERLA",
+      "": ""
+    },
+    {
+      "N�": 318,
+      "Ubigeo": "070105",
+      "Departamento": "CALLAO",
+      "Provincia": "CALLAO",
+      "Distrito": "LA PUNTA",
+      "": ""
+    },
+    {
+      "N�": 319,
+      "Ubigeo": "070106",
+      "Departamento": "CALLAO",
+      "Provincia": "CALLAO",
+      "Distrito": "VENTANILLA",
+      "": ""
+    },
+    {
+      "N�": 320,
+      "Ubigeo": "070107",
+      "Departamento": "CALLAO",
+      "Provincia": "CALLAO",
+      "Distrito": "MI PER�",
+      "": ""
+    },
+    {
+      "N�": 321,
+      "Ubigeo": "080101",
+      "Departamento": "CUSCO",
+      "Provincia": "CUSCO",
+      "Distrito": "CUSCO",
+      "": ""
+    },
+    {
+      "N�": 322,
+      "Ubigeo": "080102",
+      "Departamento": "CUSCO",
+      "Provincia": "CUSCO",
+      "Distrito": "CCORCA",
+      "": ""
+    },
+    {
+      "N�": 323,
+      "Ubigeo": "080104",
+      "Departamento": "CUSCO",
+      "Provincia": "CUSCO",
+      "Distrito": "SAN JERONIMO",
+      "": ""
+    },
+    {
+      "N�": 324,
+      "Ubigeo": "080105",
+      "Departamento": "CUSCO",
+      "Provincia": "CUSCO",
+      "Distrito": "SAN SEBASTIAN",
+      "": ""
+    },
+    {
+      "N�": 325,
+      "Ubigeo": "080106",
+      "Departamento": "CUSCO",
+      "Provincia": "CUSCO",
+      "Distrito": "SANTIAGO",
+      "": ""
+    },
+    {
+      "N�": 326,
+      "Ubigeo": "080108",
+      "Departamento": "CUSCO",
+      "Provincia": "CUSCO",
+      "Distrito": "WANCHAQ",
+      "": ""
+    },
+    {
+      "N�": 327,
+      "Ubigeo": "080304",
+      "Departamento": "CUSCO",
+      "Provincia": "ANTA",
+      "Distrito": "CHINCHAYPUJIO",
+      "": ""
+    },
+    {
+      "N�": 328,
+      "Ubigeo": "080306",
+      "Departamento": "CUSCO",
+      "Provincia": "ANTA",
+      "Distrito": "LIMATAMBO",
+      "": ""
+    },
+    {
+      "N�": 329,
+      "Ubigeo": "080406",
+      "Departamento": "CUSCO",
+      "Provincia": "CALCA",
+      "Distrito": "SAN SALVADOR",
+      "": ""
+    },
+    {
+      "N�": 330,
+      "Ubigeo": "080408",
+      "Departamento": "CUSCO",
+      "Provincia": "CALCA",
+      "Distrito": "YANATILE",
+      "": ""
+    },
+    {
+      "N�": 331,
+      "Ubigeo": "080502",
+      "Departamento": "CUSCO",
+      "Provincia": "CANAS",
+      "Distrito": "CHECCA",
+      "": ""
+    },
+    {
+      "N�": 332,
+      "Ubigeo": "080503",
+      "Departamento": "CUSCO",
+      "Provincia": "CANAS",
+      "Distrito": "KUNTURKANKI",
+      "": ""
+    },
+    {
+      "N�": 333,
+      "Ubigeo": "080504",
+      "Departamento": "CUSCO",
+      "Provincia": "CANAS",
+      "Distrito": "LANGUI",
+      "": ""
+    },
+    {
+      "N�": 334,
+      "Ubigeo": "080505",
+      "Departamento": "CUSCO",
+      "Provincia": "CANAS",
+      "Distrito": "LAYO",
+      "": ""
+    },
+    {
+      "N�": 335,
+      "Ubigeo": "080507",
+      "Departamento": "CUSCO",
+      "Provincia": "CANAS",
+      "Distrito": "QUEHUE",
+      "": ""
+    },
+    {
+      "N�": 336,
+      "Ubigeo": "080508",
+      "Departamento": "CUSCO",
+      "Provincia": "CANAS",
+      "Distrito": "TUPAC AMARU",
+      "": ""
+    },
+    {
+      "N�": 337,
+      "Ubigeo": "080601",
+      "Departamento": "CUSCO",
+      "Provincia": "CANCHIS",
+      "Distrito": "SICUANI",
+      "": ""
+    },
+    {
+      "N�": 338,
+      "Ubigeo": "080604",
+      "Departamento": "CUSCO",
+      "Provincia": "CANCHIS",
+      "Distrito": "MARANGANI",
+      "": ""
+    },
+    {
+      "N�": 339,
+      "Ubigeo": "080702",
+      "Departamento": "CUSCO",
+      "Provincia": "CHUMBIVILCAS",
+      "Distrito": "CAPACMARCA",
+      "": ""
+    },
+    {
+      "N�": 340,
+      "Ubigeo": "080703",
+      "Departamento": "CUSCO",
+      "Provincia": "CHUMBIVILCAS",
+      "Distrito": "CHAMACA",
+      "": ""
+    },
+    {
+      "N�": 341,
+      "Ubigeo": "080704",
+      "Departamento": "CUSCO",
+      "Provincia": "CHUMBIVILCAS",
+      "Distrito": "COLQUEMARCA",
+      "": ""
+    },
+    {
+      "N�": 342,
+      "Ubigeo": "080705",
+      "Departamento": "CUSCO",
+      "Provincia": "CHUMBIVILCAS",
+      "Distrito": "LIVITACA",
+      "": ""
+    },
+    {
+      "N�": 343,
+      "Ubigeo": "080706",
+      "Departamento": "CUSCO",
+      "Provincia": "CHUMBIVILCAS",
+      "Distrito": "LLUSCO",
+      "": ""
+    },
+    {
+      "N�": 344,
+      "Ubigeo": "080707",
+      "Departamento": "CUSCO",
+      "Provincia": "CHUMBIVILCAS",
+      "Distrito": "QUI�OTA",
+      "": ""
+    },
+    {
+      "N�": 345,
+      "Ubigeo": "080801",
+      "Departamento": "CUSCO",
+      "Provincia": "ESPINAR",
+      "Distrito": "ESPINAR",
+      "": ""
+    },
+    {
+      "N�": 346,
+      "Ubigeo": "080803",
+      "Departamento": "CUSCO",
+      "Provincia": "ESPINAR",
+      "Distrito": "COPORAQUE",
+      "": ""
+    },
+    {
+      "N�": 347,
+      "Ubigeo": "080804",
+      "Departamento": "CUSCO",
+      "Provincia": "ESPINAR",
+      "Distrito": "OCORURO",
+      "": ""
+    },
+    {
+      "N�": 348,
+      "Ubigeo": "080806",
+      "Departamento": "CUSCO",
+      "Provincia": "ESPINAR",
+      "Distrito": "PICHIGUA",
+      "": ""
+    },
+    {
+      "N�": 349,
+      "Ubigeo": "080807",
+      "Departamento": "CUSCO",
+      "Provincia": "ESPINAR",
+      "Distrito": "SUYCKUTAMBO",
+      "": ""
+    },
+    {
+      "N�": 350,
+      "Ubigeo": "080808",
+      "Departamento": "CUSCO",
+      "Provincia": "ESPINAR",
+      "Distrito": "ALTO PICHIGUA",
+      "": ""
+    },
+    {
+      "N�": 351,
+      "Ubigeo": "080901",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "SANTA ANA",
+      "": ""
+    },
+    {
+      "N�": 352,
+      "Ubigeo": "080902",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "ECHARATE",
+      "": ""
+    },
+    {
+      "N�": 353,
+      "Ubigeo": "080904",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "MARANURA",
+      "": ""
+    },
+    {
+      "N�": 354,
+      "Ubigeo": "080905",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "OCOBAMBA",
+      "": ""
+    },
+    {
+      "N�": 355,
+      "Ubigeo": "080906",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "QUELLOUNO",
+      "": ""
+    },
+    {
+      "N�": 356,
+      "Ubigeo": "080908",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "SANTA TERESA",
+      "": ""
+    },
+    {
+      "N�": 357,
+      "Ubigeo": "080909",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "VILCABAMBA",
+      "": ""
+    },
+    {
+      "N�": 358,
+      "Ubigeo": "080911",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "INKAWASI",
+      "": ""
+    },
+    {
+      "N�": 359,
+      "Ubigeo": "080913",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "VILLA KINTIARINA",
+      "": ""
+    },
+    {
+      "N�": 360,
+      "Ubigeo": "080914",
+      "Departamento": "CUSCO",
+      "Provincia": "LA CONVENCION",
+      "Distrito": "MEGANTONI",
+      "": ""
+    },
+    {
+      "N�": 361,
+      "Ubigeo": "081003",
+      "Departamento": "CUSCO",
+      "Provincia": "PARURO",
+      "Distrito": "CCAPI",
+      "": ""
+    },
+    {
+      "N�": 362,
+      "Ubigeo": "081006",
+      "Departamento": "CUSCO",
+      "Provincia": "PARURO",
+      "Distrito": "OMACHA",
+      "": ""
+    },
+    {
+      "N�": 363,
+      "Ubigeo": "081009",
+      "Departamento": "CUSCO",
+      "Provincia": "PARURO",
+      "Distrito": "YAURISQUE",
+      "": ""
+    },
+    {
+      "N�": 364,
+      "Ubigeo": "081102",
+      "Departamento": "CUSCO",
+      "Provincia": "PAUCARTAMBO",
+      "Distrito": "CAICAY",
+      "": ""
+    },
+    {
+      "N�": 365,
+      "Ubigeo": "081103",
+      "Departamento": "CUSCO",
+      "Provincia": "PAUCARTAMBO",
+      "Distrito": "CHALLABAMBA",
+      "": ""
+    },
+    {
+      "N�": 366,
+      "Ubigeo": "081104",
+      "Departamento": "CUSCO",
+      "Provincia": "PAUCARTAMBO",
+      "Distrito": "COLQUEPATA",
+      "": ""
+    },
+    {
+      "N�": 367,
+      "Ubigeo": "081105",
+      "Departamento": "CUSCO",
+      "Provincia": "PAUCARTAMBO",
+      "Distrito": "HUANCARANI",
+      "": ""
+    },
+    {
+      "N�": 368,
+      "Ubigeo": "081204",
+      "Departamento": "CUSCO",
+      "Provincia": "QUISPICANCHI",
+      "Distrito": "CCARHUAYO",
+      "": ""
+    },
+    {
+      "N�": 369,
+      "Ubigeo": "081205",
+      "Departamento": "CUSCO",
+      "Provincia": "QUISPICANCHI",
+      "Distrito": "CCATCA",
+      "": ""
+    },
+    {
+      "N�": 370,
+      "Ubigeo": "081206",
+      "Departamento": "CUSCO",
+      "Provincia": "QUISPICANCHI",
+      "Distrito": "CUSIPATA",
+      "": ""
+    },
+    {
+      "N�": 371,
+      "Ubigeo": "081209",
+      "Departamento": "CUSCO",
+      "Provincia": "QUISPICANCHI",
+      "Distrito": "MARCAPATA",
+      "": ""
+    },
+    {
+      "N�": 372,
+      "Ubigeo": "081210",
+      "Departamento": "CUSCO",
+      "Provincia": "QUISPICANCHI",
+      "Distrito": "OCONGATE",
+      "": ""
+    },
+    {
+      "N�": 373,
+      "Ubigeo": "081212",
+      "Departamento": "CUSCO",
+      "Provincia": "QUISPICANCHI",
+      "Distrito": "QUIQUIJANA",
+      "": ""
+    },
+    {
+      "N�": 374,
+      "Ubigeo": "081305",
+      "Departamento": "CUSCO",
+      "Provincia": "URUBAMBA",
+      "Distrito": "MARAS",
+      "": ""
+    },
+    {
+      "N�": 375,
+      "Ubigeo": "081306",
+      "Departamento": "CUSCO",
+      "Provincia": "URUBAMBA",
+      "Distrito": "OLLANTAYTAMBO",
+      "": ""
+    },
+    {
+      "N�": 376,
+      "Ubigeo": "090101",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "HUANCAVELICA",
+      "": ""
+    },
+    {
+      "N�": 377,
+      "Ubigeo": "090102",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "ACOBAMBILLA",
+      "": ""
+    },
+    {
+      "N�": 378,
+      "Ubigeo": "090103",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "ACORIA",
+      "": ""
+    },
+    {
+      "N�": 379,
+      "Ubigeo": "090105",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "CUENCA",
+      "": ""
+    },
+    {
+      "N�": 380,
+      "Ubigeo": "090110",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "MANTA",
+      "": ""
+    },
+    {
+      "N�": 381,
+      "Ubigeo": "090113",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "NUEVO OCCORO",
+      "": ""
+    },
+    {
+      "N�": 382,
+      "Ubigeo": "090114",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "PALCA",
+      "": ""
+    },
+    {
+      "N�": 383,
+      "Ubigeo": "090116",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "VILCA",
+      "": ""
+    },
+    {
+      "N�": 384,
+      "Ubigeo": "090117",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "YAULI",
+      "": ""
+    },
+    {
+      "N�": 385,
+      "Ubigeo": "090118",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "ASCENSION",
+      "": ""
+    },
+    {
+      "N�": 386,
+      "Ubigeo": "090119",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUANCAVELICA",
+      "Distrito": "HUANDO",
+      "": ""
+    },
+    {
+      "N�": 387,
+      "Ubigeo": "090202",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "ACOBAMBA",
+      "Distrito": "ANDABAMBA",
+      "": ""
+    },
+    {
+      "N�": 388,
+      "Ubigeo": "090203",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "ACOBAMBA",
+      "Distrito": "ANTA",
+      "": ""
+    },
+    {
+      "N�": 389,
+      "Ubigeo": "090302",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "ANGARAES",
+      "Distrito": "ANCHONGA",
+      "": ""
+    },
+    {
+      "N�": 390,
+      "Ubigeo": "090305",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "ANGARAES",
+      "Distrito": "CHINCHO",
+      "": ""
+    },
+    {
+      "N�": 391,
+      "Ubigeo": "090306",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "ANGARAES",
+      "Distrito": "CONGALLA",
+      "": ""
+    },
+    {
+      "N�": 392,
+      "Ubigeo": "090310",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "ANGARAES",
+      "Distrito": "SAN ANTONIO DE ANTAPARCO",
+      "": ""
+    },
+    {
+      "N�": 393,
+      "Ubigeo": "090311",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "ANGARAES",
+      "Distrito": "SANTO TOMAS DE PATA",
+      "": ""
+    },
+    {
+      "N�": 394,
+      "Ubigeo": "090312",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "ANGARAES",
+      "Distrito": "SECCLLA",
+      "": ""
+    },
+    {
+      "N�": 395,
+      "Ubigeo": "090402",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CASTROVIRREYNA",
+      "Distrito": "ARMA",
+      "": ""
+    },
+    {
+      "N�": 396,
+      "Ubigeo": "090404",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CASTROVIRREYNA",
+      "Distrito": "CAPILLAS",
+      "": ""
+    },
+    {
+      "N�": 397,
+      "Ubigeo": "090405",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CASTROVIRREYNA",
+      "Distrito": "CHUPAMARCA",
+      "": ""
+    },
+    {
+      "N�": 398,
+      "Ubigeo": "090406",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CASTROVIRREYNA",
+      "Distrito": "COCAS",
+      "": ""
+    },
+    {
+      "N�": 399,
+      "Ubigeo": "090407",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CASTROVIRREYNA",
+      "Distrito": "HUACHOS",
+      "": ""
+    },
+    {
+      "N�": 400,
+      "Ubigeo": "090409",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CASTROVIRREYNA",
+      "Distrito": "MOLLEPAMPA",
+      "": ""
+    },
+    {
+      "N�": 401,
+      "Ubigeo": "090410",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CASTROVIRREYNA",
+      "Distrito": "SAN JUAN",
+      "": ""
+    },
+    {
+      "N�": 402,
+      "Ubigeo": "090411",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CASTROVIRREYNA",
+      "Distrito": "SANTA ANA",
+      "": ""
+    },
+    {
+      "N�": 403,
+      "Ubigeo": "090502",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CHURCAMPA",
+      "Distrito": "ANCO",
+      "": ""
+    },
+    {
+      "N�": 404,
+      "Ubigeo": "090503",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CHURCAMPA",
+      "Distrito": "CHINCHIHUASI",
+      "": ""
+    },
+    {
+      "N�": 405,
+      "Ubigeo": "090504",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CHURCAMPA",
+      "Distrito": "EL CARMEN",
+      "": ""
+    },
+    {
+      "N�": 406,
+      "Ubigeo": "090506",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CHURCAMPA",
+      "Distrito": "LOCROJA",
+      "": ""
+    },
+    {
+      "N�": 407,
+      "Ubigeo": "090507",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CHURCAMPA",
+      "Distrito": "PAUCARBAMBA",
+      "": ""
+    },
+    {
+      "N�": 408,
+      "Ubigeo": "090510",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CHURCAMPA",
+      "Distrito": "PACHAMARCA",
+      "": ""
+    },
+    {
+      "N�": 409,
+      "Ubigeo": "090511",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "CHURCAMPA",
+      "Distrito": "COSME",
+      "": ""
+    },
+    {
+      "N�": 410,
+      "Ubigeo": "090603",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "CORDOVA",
+      "": ""
+    },
+    {
+      "N�": 411,
+      "Ubigeo": "090606",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "OCOYO",
+      "": ""
+    },
+    {
+      "N�": 412,
+      "Ubigeo": "090607",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "PILPICHACA",
+      "": ""
+    },
+    {
+      "N�": 413,
+      "Ubigeo": "090609",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "QUITO-ARMA",
+      "": ""
+    },
+    {
+      "N�": 414,
+      "Ubigeo": "090610",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "SAN ANTONIO DE CUSICANCHA",
+      "": ""
+    },
+    {
+      "N�": 415,
+      "Ubigeo": "090611",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "SAN FRANCISCO DE SANGAYAICO",
+      "": ""
+    },
+    {
+      "N�": 416,
+      "Ubigeo": "090612",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "SAN ISIDRO",
+      "": ""
+    },
+    {
+      "N�": 417,
+      "Ubigeo": "090613",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "SANTIAGO DE CHOCORVOS",
+      "": ""
+    },
+    {
+      "N�": 418,
+      "Ubigeo": "090615",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "HUAYTARA",
+      "Distrito": "SANTO DOMINGO DE CAPILLAS",
+      "": ""
+    },
+    {
+      "N�": 419,
+      "Ubigeo": "090702",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "ACOSTAMBO",
+      "": ""
+    },
+    {
+      "N�": 420,
+      "Ubigeo": "090703",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "ACRAQUIA",
+      "": ""
+    },
+    {
+      "N�": 421,
+      "Ubigeo": "090704",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "AHUAYCHA",
+      "": ""
+    },
+    {
+      "N�": 422,
+      "Ubigeo": "090705",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "COLCABAMBA",
+      "": ""
+    },
+    {
+      "N�": 423,
+      "Ubigeo": "090707",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "HUACHOCOLPA",
+      "": ""
+    },
+    {
+      "N�": 424,
+      "Ubigeo": "090709",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "HUARIBAMBA",
+      "": ""
+    },
+    {
+      "N�": 425,
+      "Ubigeo": "090714",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "SALCABAMBA",
+      "": ""
+    },
+    {
+      "N�": 426,
+      "Ubigeo": "090715",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "SALCAHUASI",
+      "": ""
+    },
+    {
+      "N�": 427,
+      "Ubigeo": "090716",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "SAN MARCOS DE ROCCHAC",
+      "": ""
+    },
+    {
+      "N�": 428,
+      "Ubigeo": "090717",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "SURCUBAMBA",
+      "": ""
+    },
+    {
+      "N�": 429,
+      "Ubigeo": "090718",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "TINTAY PUNCU",
+      "": ""
+    },
+    {
+      "N�": 430,
+      "Ubigeo": "090719",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "QUICHUAS",
+      "": ""
+    },
+    {
+      "N�": 431,
+      "Ubigeo": "090720",
+      "Departamento": "HUANCAVELICA",
+      "Provincia": "TAYACAJA",
+      "Distrito": "ANDAYMARCA",
+      "": ""
+    },
+    {
+      "N�": 432,
+      "Ubigeo": 100101,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "HUANUCO",
+      "": ""
+    },
+    {
+      "N�": 433,
+      "Ubigeo": 100102,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "AMARILIS",
+      "": ""
+    },
+    {
+      "N�": 434,
+      "Ubigeo": 100103,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "CHINCHAO",
+      "": ""
+    },
+    {
+      "N�": 435,
+      "Ubigeo": 100104,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "CHURUBAMBA",
+      "": ""
+    },
+    {
+      "N�": 436,
+      "Ubigeo": 100106,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "QUISQUI",
+      "": ""
+    },
+    {
+      "N�": 437,
+      "Ubigeo": 100107,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "SAN FRANCISCO DE CAYRAN",
+      "": ""
+    },
+    {
+      "N�": 438,
+      "Ubigeo": 100108,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "SAN PEDRO DE CHAULAN",
+      "": ""
+    },
+    {
+      "N�": 439,
+      "Ubigeo": 100109,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "SANTA MARIA DEL VALLE",
+      "": ""
+    },
+    {
+      "N�": 440,
+      "Ubigeo": 100110,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "YARUMAYO",
+      "": ""
+    },
+    {
+      "N�": 441,
+      "Ubigeo": 100111,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "PILLCO MARCA",
+      "": ""
+    },
+    {
+      "N�": 442,
+      "Ubigeo": 100113,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUANUCO",
+      "Distrito": "SAN PABLO DE PILLAO",
+      "": ""
+    },
+    {
+      "N�": 443,
+      "Ubigeo": 100203,
+      "Departamento": "HUANUCO",
+      "Provincia": "AMBO",
+      "Distrito": "COLPAS",
+      "": ""
+    },
+    {
+      "N�": 444,
+      "Ubigeo": 100204,
+      "Departamento": "HUANUCO",
+      "Provincia": "AMBO",
+      "Distrito": "CONCHAMARCA",
+      "": ""
+    },
+    {
+      "N�": 445,
+      "Ubigeo": 100205,
+      "Departamento": "HUANUCO",
+      "Provincia": "AMBO",
+      "Distrito": "HUACAR",
+      "": ""
+    },
+    {
+      "N�": 446,
+      "Ubigeo": 100207,
+      "Departamento": "HUANUCO",
+      "Provincia": "AMBO",
+      "Distrito": "SAN RAFAEL",
+      "": ""
+    },
+    {
+      "N�": 447,
+      "Ubigeo": 100321,
+      "Departamento": "HUANUCO",
+      "Provincia": "DOS DE MAYO",
+      "Distrito": "SHUNQUI",
+      "": ""
+    },
+    {
+      "N�": 448,
+      "Ubigeo": 100322,
+      "Departamento": "HUANUCO",
+      "Provincia": "DOS DE MAYO",
+      "Distrito": "SILLAPATA",
+      "": ""
+    },
+    {
+      "N�": 449,
+      "Ubigeo": 100402,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUACAYBAMBA",
+      "Distrito": "CANCHABAMBA",
+      "": ""
+    },
+    {
+      "N�": 450,
+      "Ubigeo": 100403,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUACAYBAMBA",
+      "Distrito": "COCHABAMBA",
+      "": ""
+    },
+    {
+      "N�": 451,
+      "Ubigeo": 100404,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUACAYBAMBA",
+      "Distrito": "PINRA",
+      "": ""
+    },
+    {
+      "N�": 452,
+      "Ubigeo": 100502,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUAMALIES",
+      "Distrito": "ARANCAY",
+      "": ""
+    },
+    {
+      "N�": 453,
+      "Ubigeo": 100504,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUAMALIES",
+      "Distrito": "JACAS GRANDE",
+      "": ""
+    },
+    {
+      "N�": 454,
+      "Ubigeo": 100505,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUAMALIES",
+      "Distrito": "JIRCAN",
+      "": ""
+    },
+    {
+      "N�": 455,
+      "Ubigeo": 100509,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUAMALIES",
+      "Distrito": "PU�OS",
+      "": ""
+    },
+    {
+      "N�": 456,
+      "Ubigeo": 100510,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUAMALIES",
+      "Distrito": "SINGA",
+      "": ""
+    },
+    {
+      "N�": 457,
+      "Ubigeo": 100511,
+      "Departamento": "HUANUCO",
+      "Provincia": "HUAMALIES",
+      "Distrito": "TANTAMAYO",
+      "": ""
+    },
+    {
+      "N�": 458,
+      "Ubigeo": 100601,
+      "Departamento": "HUANUCO",
+      "Provincia": "LEONCIO PRADO",
+      "Distrito": "RUPA-RUPA",
+      "": ""
+    },
+    {
+      "N�": 459,
+      "Ubigeo": 100602,
+      "Departamento": "HUANUCO",
+      "Provincia": "LEONCIO PRADO",
+      "Distrito": "DANIEL ALOMIA ROBLES",
+      "": ""
+    },
+    {
+      "N�": 460,
+      "Ubigeo": 100603,
+      "Departamento": "HUANUCO",
+      "Provincia": "LEONCIO PRADO",
+      "Distrito": "HERMILIO VALDIZAN",
+      "": ""
+    },
+    {
+      "N�": 461,
+      "Ubigeo": 100606,
+      "Departamento": "HUANUCO",
+      "Provincia": "LEONCIO PRADO",
+      "Distrito": "MARIANO DAMASO BERAUN",
+      "": ""
+    },
+    {
+      "N�": 462,
+      "Ubigeo": 100607,
+      "Departamento": "HUANUCO",
+      "Provincia": "LEONCIO PRADO",
+      "Distrito": "PUCAYACU",
+      "": ""
+    },
+    {
+      "N�": 463,
+      "Ubigeo": 100608,
+      "Departamento": "HUANUCO",
+      "Provincia": "LEONCIO PRADO",
+      "Distrito": "CASTILLO GRANDE",
+      "": ""
+    },
+    {
+      "N�": 464,
+      "Ubigeo": 100609,
+      "Departamento": "HUANUCO",
+      "Provincia": "LEONCIO PRADO",
+      "Distrito": "PUEBLO NUEVO",
+      "": ""
+    },
+    {
+      "N�": 465,
+      "Ubigeo": 100610,
+      "Departamento": "HUANUCO",
+      "Provincia": "LEONCIO PRADO",
+      "Distrito": "SANTO DOMINGO DE ANDA",
+      "": ""
+    },
+    {
+      "N�": 466,
+      "Ubigeo": 100703,
+      "Departamento": "HUANUCO",
+      "Provincia": "MARA�ON",
+      "Distrito": "SAN BUENAVENTURA",
+      "": ""
+    },
+    {
+      "N�": 467,
+      "Ubigeo": 100804,
+      "Departamento": "HUANUCO",
+      "Provincia": "PACHITEA",
+      "Distrito": "UMARI",
+      "": ""
+    },
+    {
+      "N�": 468,
+      "Ubigeo": 100902,
+      "Departamento": "HUANUCO",
+      "Provincia": "PUERTO INCA",
+      "Distrito": "CODO DEL POZUZO",
+      "": ""
+    },
+    {
+      "N�": 469,
+      "Ubigeo": 100903,
+      "Departamento": "HUANUCO",
+      "Provincia": "PUERTO INCA",
+      "Distrito": "HONORIA",
+      "": ""
+    },
+    {
+      "N�": 470,
+      "Ubigeo": 100904,
+      "Departamento": "HUANUCO",
+      "Provincia": "PUERTO INCA",
+      "Distrito": "TOURNAVISTA",
+      "": ""
+    },
+    {
+      "N�": 471,
+      "Ubigeo": 100905,
+      "Departamento": "HUANUCO",
+      "Provincia": "PUERTO INCA",
+      "Distrito": "YUYAPICHIS",
+      "": ""
+    },
+    {
+      "N�": 472,
+      "Ubigeo": 101003,
+      "Departamento": "HUANUCO",
+      "Provincia": "LAURICOCHA",
+      "Distrito": "JIVIA",
+      "": ""
+    },
+    {
+      "N�": 473,
+      "Ubigeo": 101005,
+      "Departamento": "HUANUCO",
+      "Provincia": "LAURICOCHA",
+      "Distrito": "RONDOS",
+      "": ""
+    },
+    {
+      "N�": 474,
+      "Ubigeo": 101007,
+      "Departamento": "HUANUCO",
+      "Provincia": "LAURICOCHA",
+      "Distrito": "SAN MIGUEL DE CAURI",
+      "": ""
+    },
+    {
+      "N�": 475,
+      "Ubigeo": 101103,
+      "Departamento": "HUANUCO",
+      "Provincia": "YAROWILCA",
+      "Distrito": "CHACABAMBA",
+      "": ""
+    },
+    {
+      "N�": 476,
+      "Ubigeo": 101104,
+      "Departamento": "HUANUCO",
+      "Provincia": "YAROWILCA",
+      "Distrito": "APARICIO POMARES",
+      "": ""
+    },
+    {
+      "N�": 477,
+      "Ubigeo": 101105,
+      "Departamento": "HUANUCO",
+      "Provincia": "YAROWILCA",
+      "Distrito": "JACAS CHICO",
+      "": ""
+    },
+    {
+      "N�": 478,
+      "Ubigeo": 101106,
+      "Departamento": "HUANUCO",
+      "Provincia": "YAROWILCA",
+      "Distrito": "OBAS",
+      "": ""
+    },
+    {
+      "N�": 479,
+      "Ubigeo": 101107,
+      "Departamento": "HUANUCO",
+      "Provincia": "YAROWILCA",
+      "Distrito": "PAMPAMARCA",
+      "": ""
+    },
+    {
+      "N�": 480,
+      "Ubigeo": 101108,
+      "Departamento": "HUANUCO",
+      "Provincia": "YAROWILCA",
+      "Distrito": "CHORAS",
+      "": ""
+    },
+    {
+      "N�": 481,
+      "Ubigeo": 110101,
+      "Departamento": "ICA",
+      "Provincia": "ICA",
+      "Distrito": "ICA",
+      "": ""
+    },
+    {
+      "N�": 482,
+      "Ubigeo": 110102,
+      "Departamento": "ICA",
+      "Provincia": "ICA",
+      "Distrito": "LA TINGUI�A",
+      "": ""
+    },
+    {
+      "N�": 483,
+      "Ubigeo": 110103,
+      "Departamento": "ICA",
+      "Provincia": "ICA",
+      "Distrito": "LOS AQUIJES",
+      "": ""
+    },
+    {
+      "N�": 484,
+      "Ubigeo": 110106,
+      "Departamento": "ICA",
+      "Provincia": "ICA",
+      "Distrito": "PARCONA",
+      "": ""
+    },
+    {
+      "N�": 485,
+      "Ubigeo": 110108,
+      "Departamento": "ICA",
+      "Provincia": "ICA",
+      "Distrito": "SALAS",
+      "": ""
+    },
+    {
+      "N�": 486,
+      "Ubigeo": 110110,
+      "Departamento": "ICA",
+      "Provincia": "ICA",
+      "Distrito": "SAN JUAN BAUTISTA",
+      "": ""
+    },
+    {
+      "N�": 487,
+      "Ubigeo": 110112,
+      "Departamento": "ICA",
+      "Provincia": "ICA",
+      "Distrito": "SUBTANJALLA",
+      "": ""
+    },
+    {
+      "N�": 488,
+      "Ubigeo": 110114,
+      "Departamento": "ICA",
+      "Provincia": "ICA",
+      "Distrito": "YAUCA DEL ROSARIO",
+      "": ""
+    },
+    {
+      "N�": 489,
+      "Ubigeo": 110201,
+      "Departamento": "ICA",
+      "Provincia": "CHINCHA",
+      "Distrito": "CHINCHA ALTA",
+      "": ""
+    },
+    {
+      "N�": 490,
+      "Ubigeo": 110203,
+      "Departamento": "ICA",
+      "Provincia": "CHINCHA",
+      "Distrito": "CHAVIN",
+      "": ""
+    },
+    {
+      "N�": 491,
+      "Ubigeo": 110206,
+      "Departamento": "ICA",
+      "Provincia": "CHINCHA",
+      "Distrito": "GROCIO PRADO",
+      "": ""
+    },
+    {
+      "N�": 492,
+      "Ubigeo": 110207,
+      "Departamento": "ICA",
+      "Provincia": "CHINCHA",
+      "Distrito": "PUEBLO NUEVO",
+      "": ""
+    },
+    {
+      "N�": 493,
+      "Ubigeo": 110208,
+      "Departamento": "ICA",
+      "Provincia": "CHINCHA",
+      "Distrito": "SAN JUAN DE YANAC",
+      "": ""
+    },
+    {
+      "N�": 494,
+      "Ubigeo": 110209,
+      "Departamento": "ICA",
+      "Provincia": "CHINCHA",
+      "Distrito": "SAN PEDRO DE HUACARPANA",
+      "": ""
+    },
+    {
+      "N�": 495,
+      "Ubigeo": 110210,
+      "Departamento": "ICA",
+      "Provincia": "CHINCHA",
+      "Distrito": "SUNAMPE",
+      "": ""
+    },
+    {
+      "N�": 496,
+      "Ubigeo": 110301,
+      "Departamento": "ICA",
+      "Provincia": "NASCA",
+      "Distrito": "NASCA",
+      "": ""
+    },
+    {
+      "N�": 497,
+      "Ubigeo": 110305,
+      "Departamento": "ICA",
+      "Provincia": "NASCA",
+      "Distrito": "VISTA ALEGRE",
+      "": ""
+    },
+    {
+      "N�": 498,
+      "Ubigeo": 110501,
+      "Departamento": "ICA",
+      "Provincia": "PISCO",
+      "Distrito": "PISCO",
+      "": ""
+    },
+    {
+      "N�": 499,
+      "Ubigeo": 110502,
+      "Departamento": "ICA",
+      "Provincia": "PISCO",
+      "Distrito": "HUANCANO",
+      "": ""
+    },
+    {
+      "N�": 500,
+      "Ubigeo": 110506,
+      "Departamento": "ICA",
+      "Provincia": "PISCO",
+      "Distrito": "SAN ANDRES",
+      "": ""
+    },
+    {
+      "N�": 501,
+      "Ubigeo": 110507,
+      "Departamento": "ICA",
+      "Provincia": "PISCO",
+      "Distrito": "SAN CLEMENTE",
+      "": ""
+    },
+    {
+      "N�": 502,
+      "Ubigeo": 110508,
+      "Departamento": "ICA",
+      "Provincia": "PISCO",
+      "Distrito": "TUPAC AMARU INCA",
+      "": ""
+    },
+    {
+      "N�": 503,
+      "Ubigeo": 120101,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "HUANCAYO",
+      "": ""
+    },
+    {
+      "N�": 504,
+      "Ubigeo": 120107,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "CHILCA",
+      "": ""
+    },
+    {
+      "N�": 505,
+      "Ubigeo": 120114,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "EL TAMBO",
+      "": ""
+    },
+    {
+      "N�": 506,
+      "Ubigeo": 120117,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "HUALHUAS",
+      "": ""
+    },
+    {
+      "N�": 507,
+      "Ubigeo": 120119,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "HUANCAN",
+      "": ""
+    },
+    {
+      "N�": 508,
+      "Ubigeo": 120121,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "HUAYUCACHI",
+      "": ""
+    },
+    {
+      "N�": 509,
+      "Ubigeo": 120124,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "PARIAHUANCA",
+      "": ""
+    },
+    {
+      "N�": 510,
+      "Ubigeo": 120125,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "PILCOMAYO",
+      "": ""
+    },
+    {
+      "N�": 511,
+      "Ubigeo": 120129,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "SAN AGUSTIN",
+      "": ""
+    },
+    {
+      "N�": 512,
+      "Ubigeo": 120133,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "SAPALLANGA",
+      "": ""
+    },
+    {
+      "N�": 513,
+      "Ubigeo": 120134,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "SICAYA",
+      "": ""
+    },
+    {
+      "N�": 514,
+      "Ubigeo": 120135,
+      "Departamento": "JUNIN",
+      "Provincia": "HUANCAYO",
+      "Distrito": "SANTO DOMINGO DE ACOBAMBA",
+      "": ""
+    },
+    {
+      "N�": 515,
+      "Ubigeo": 120203,
+      "Departamento": "JUNIN",
+      "Provincia": "CONCEPCION",
+      "Distrito": "ANDAMARCA",
+      "": ""
+    },
+    {
+      "N�": 516,
+      "Ubigeo": 120204,
+      "Departamento": "JUNIN",
+      "Provincia": "CONCEPCION",
+      "Distrito": "CHAMBARA",
+      "": ""
+    },
+    {
+      "N�": 517,
+      "Ubigeo": 120205,
+      "Departamento": "JUNIN",
+      "Provincia": "CONCEPCION",
+      "Distrito": "COCHAS",
+      "": ""
+    },
+    {
+      "N�": 518,
+      "Ubigeo": 120206,
+      "Departamento": "JUNIN",
+      "Provincia": "CONCEPCION",
+      "Distrito": "COMAS",
+      "": ""
+    },
+    {
+      "N�": 519,
+      "Ubigeo": 120207,
+      "Departamento": "JUNIN",
+      "Provincia": "CONCEPCION",
+      "Distrito": "HEROINAS TOLEDO",
+      "": ""
+    },
+    {
+      "N�": 520,
+      "Ubigeo": 120209,
+      "Departamento": "JUNIN",
+      "Provincia": "CONCEPCION",
+      "Distrito": "MARISCAL CASTILLA",
+      "": ""
+    },
+    {
+      "N�": 521,
+      "Ubigeo": 120301,
+      "Departamento": "JUNIN",
+      "Provincia": "CHANCHAMAYO",
+      "Distrito": "CHANCHAMAYO",
+      "": ""
+    },
+    {
+      "N�": 522,
+      "Ubigeo": 120302,
+      "Departamento": "JUNIN",
+      "Provincia": "CHANCHAMAYO",
+      "Distrito": "PERENE",
+      "": ""
+    },
+    {
+      "N�": 523,
+      "Ubigeo": 120303,
+      "Departamento": "JUNIN",
+      "Provincia": "CHANCHAMAYO",
+      "Distrito": "PICHANAQUI",
+      "": ""
+    },
+    {
+      "N�": 524,
+      "Ubigeo": 120305,
+      "Departamento": "JUNIN",
+      "Provincia": "CHANCHAMAYO",
+      "Distrito": "SAN RAMON",
+      "": ""
+    },
+    {
+      "N�": 525,
+      "Ubigeo": 120306,
+      "Departamento": "JUNIN",
+      "Provincia": "CHANCHAMAYO",
+      "Distrito": "VITOC",
+      "": ""
+    },
+    {
+      "N�": 526,
+      "Ubigeo": 120401,
+      "Departamento": "JUNIN",
+      "Provincia": "JAUJA",
+      "Distrito": "JAUJA",
+      "": ""
+    },
+    {
+      "N�": 527,
+      "Ubigeo": 120406,
+      "Departamento": "JUNIN",
+      "Provincia": "JAUJA",
+      "Distrito": "CURICACA",
+      "": ""
+    },
+    {
+      "N�": 528,
+      "Ubigeo": 120411,
+      "Departamento": "JUNIN",
+      "Provincia": "JAUJA",
+      "Distrito": "JANJAILLO",
+      "": ""
+    },
+    {
+      "N�": 529,
+      "Ubigeo": 120417,
+      "Departamento": "JUNIN",
+      "Provincia": "JAUJA",
+      "Distrito": "MASMA CHICCHE",
+      "": ""
+    },
+    {
+      "N�": 530,
+      "Ubigeo": 120419,
+      "Departamento": "JUNIN",
+      "Provincia": "JAUJA",
+      "Distrito": "MONOBAMBA",
+      "": ""
+    },
+    {
+      "N�": 531,
+      "Ubigeo": 120423,
+      "Departamento": "JUNIN",
+      "Provincia": "JAUJA",
+      "Distrito": "PACCHA",
+      "": ""
+    },
+    {
+      "N�": 532,
+      "Ubigeo": 120430,
+      "Departamento": "JUNIN",
+      "Provincia": "JAUJA",
+      "Distrito": "SAUSA",
+      "": ""
+    },
+    {
+      "N�": 533,
+      "Ubigeo": 120434,
+      "Departamento": "JUNIN",
+      "Provincia": "JAUJA",
+      "Distrito": "YAUYOS",
+      "": ""
+    },
+    {
+      "N�": 534,
+      "Ubigeo": 120504,
+      "Departamento": "JUNIN",
+      "Provincia": "JUNIN",
+      "Distrito": "ULCUMAYO",
+      "": ""
+    },
+    {
+      "N�": 535,
+      "Ubigeo": 120601,
+      "Departamento": "JUNIN",
+      "Provincia": "SATIPO",
+      "Distrito": "SATIPO",
+      "": ""
+    },
+    {
+      "N�": 536,
+      "Ubigeo": 120602,
+      "Departamento": "JUNIN",
+      "Provincia": "SATIPO",
+      "Distrito": "COVIRIALI",
+      "": ""
+    },
+    {
+      "N�": 537,
+      "Ubigeo": 120603,
+      "Departamento": "JUNIN",
+      "Provincia": "SATIPO",
+      "Distrito": "LLAYLLA",
+      "": ""
+    },
+    {
+      "N�": 538,
+      "Ubigeo": 120605,
+      "Departamento": "JUNIN",
+      "Provincia": "SATIPO",
+      "Distrito": "PAMPA HERMOSA",
+      "": ""
+    },
+    {
+      "N�": 539,
+      "Ubigeo": 120606,
+      "Departamento": "JUNIN",
+      "Provincia": "SATIPO",
+      "Distrito": "PANGOA",
+      "": ""
+    },
+    {
+      "N�": 540,
+      "Ubigeo": 120607,
+      "Departamento": "JUNIN",
+      "Provincia": "SATIPO",
+      "Distrito": "RIO NEGRO",
+      "": ""
+    },
+    {
+      "N�": 541,
+      "Ubigeo": 120608,
+      "Departamento": "JUNIN",
+      "Provincia": "SATIPO",
+      "Distrito": "RIO TAMBO",
+      "": ""
+    },
+    {
+      "N�": 542,
+      "Ubigeo": 120609,
+      "Departamento": "JUNIN",
+      "Provincia": "SATIPO",
+      "Distrito": "VIZCAT�N DEL ENE",
+      "": ""
+    },
+    {
+      "N�": 543,
+      "Ubigeo": 120701,
+      "Departamento": "JUNIN",
+      "Provincia": "TARMA",
+      "Distrito": "TARMA",
+      "": ""
+    },
+    {
+      "N�": 544,
+      "Ubigeo": 120709,
+      "Departamento": "JUNIN",
+      "Provincia": "TARMA",
+      "Distrito": "TAPO",
+      "": ""
+    },
+    {
+      "N�": 545,
+      "Ubigeo": 120801,
+      "Departamento": "JUNIN",
+      "Provincia": "YAULI",
+      "Distrito": "LA OROYA",
+      "": ""
+    },
+    {
+      "N�": 546,
+      "Ubigeo": 120808,
+      "Departamento": "JUNIN",
+      "Provincia": "YAULI",
+      "Distrito": "SANTA ROSA DE SACCO",
+      "": ""
+    },
+    {
+      "N�": 547,
+      "Ubigeo": 120901,
+      "Departamento": "JUNIN",
+      "Provincia": "CHUPACA",
+      "Distrito": "CHUPACA",
+      "": ""
+    },
+    {
+      "N�": 548,
+      "Ubigeo": 120909,
+      "Departamento": "JUNIN",
+      "Provincia": "CHUPACA",
+      "Distrito": "YANACANCHA",
+      "": ""
+    },
+    {
+      "N�": 549,
+      "Ubigeo": 130101,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "TRUJILLO",
+      "": ""
+    },
+    {
+      "N�": 550,
+      "Ubigeo": 130102,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "EL PORVENIR",
+      "": ""
+    },
+    {
+      "N�": 551,
+      "Ubigeo": 130103,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "FLORENCIA DE MORA",
+      "": ""
+    },
+    {
+      "N�": 552,
+      "Ubigeo": 130104,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "HUANCHACO",
+      "": ""
+    },
+    {
+      "N�": 553,
+      "Ubigeo": 130105,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "LA ESPERANZA",
+      "": ""
+    },
+    {
+      "N�": 554,
+      "Ubigeo": 130106,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "LAREDO",
+      "": ""
+    },
+    {
+      "N�": 555,
+      "Ubigeo": 130107,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "MOCHE",
+      "": ""
+    },
+    {
+      "N�": 556,
+      "Ubigeo": 130108,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "POROTO",
+      "": ""
+    },
+    {
+      "N�": 557,
+      "Ubigeo": 130109,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "SALAVERRY",
+      "": ""
+    },
+    {
+      "N�": 558,
+      "Ubigeo": 130110,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "SIMBAL",
+      "": ""
+    },
+    {
+      "N�": 559,
+      "Ubigeo": 130111,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "TRUJILLO",
+      "Distrito": "VICTOR LARCO HERRERA",
+      "": ""
+    },
+    {
+      "N�": 560,
+      "Ubigeo": 130205,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "ASCOPE",
+      "Distrito": "PAIJAN",
+      "": ""
+    },
+    {
+      "N�": 561,
+      "Ubigeo": 130208,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "ASCOPE",
+      "Distrito": "CASA GRANDE",
+      "": ""
+    },
+    {
+      "N�": 562,
+      "Ubigeo": 130302,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "BOLIVAR",
+      "Distrito": "BAMBAMARCA",
+      "": ""
+    },
+    {
+      "N�": 563,
+      "Ubigeo": 130303,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "BOLIVAR",
+      "Distrito": "CONDORMARCA",
+      "": ""
+    },
+    {
+      "N�": 564,
+      "Ubigeo": 130401,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "CHEPEN",
+      "Distrito": "CHEPEN",
+      "": ""
+    },
+    {
+      "N�": 565,
+      "Ubigeo": 130502,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "JULCAN",
+      "Distrito": "CALAMARCA",
+      "": ""
+    },
+    {
+      "N�": 566,
+      "Ubigeo": 130503,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "JULCAN",
+      "Distrito": "CARABAMBA",
+      "": ""
+    },
+    {
+      "N�": 567,
+      "Ubigeo": 130504,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "JULCAN",
+      "Distrito": "HUASO",
+      "": ""
+    },
+    {
+      "N�": 568,
+      "Ubigeo": 130602,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "OTUZCO",
+      "Distrito": "AGALLPAMPA",
+      "": ""
+    },
+    {
+      "N�": 569,
+      "Ubigeo": 130604,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "OTUZCO",
+      "Distrito": "CHARAT",
+      "": ""
+    },
+    {
+      "N�": 570,
+      "Ubigeo": 130606,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "OTUZCO",
+      "Distrito": "LA CUESTA",
+      "": ""
+    },
+    {
+      "N�": 571,
+      "Ubigeo": 130608,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "OTUZCO",
+      "Distrito": "MACHE",
+      "": ""
+    },
+    {
+      "N�": 572,
+      "Ubigeo": 130610,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "OTUZCO",
+      "Distrito": "PARANDAY",
+      "": ""
+    },
+    {
+      "N�": 573,
+      "Ubigeo": 130611,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "OTUZCO",
+      "Distrito": "SALPO",
+      "": ""
+    },
+    {
+      "N�": 574,
+      "Ubigeo": 130613,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "OTUZCO",
+      "Distrito": "SINSICAP",
+      "": ""
+    },
+    {
+      "N�": 575,
+      "Ubigeo": 130614,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "OTUZCO",
+      "Distrito": "USQUIL",
+      "": ""
+    },
+    {
+      "N�": 576,
+      "Ubigeo": 130702,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PACASMAYO",
+      "Distrito": "GUADALUPE",
+      "": ""
+    },
+    {
+      "N�": 577,
+      "Ubigeo": 130704,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PACASMAYO",
+      "Distrito": "PACASMAYO",
+      "": ""
+    },
+    {
+      "N�": 578,
+      "Ubigeo": 130802,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "BULDIBUYO",
+      "": ""
+    },
+    {
+      "N�": 579,
+      "Ubigeo": 130803,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "CHILLIA",
+      "": ""
+    },
+    {
+      "N�": 580,
+      "Ubigeo": 130804,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "HUANCASPATA",
+      "": ""
+    },
+    {
+      "N�": 581,
+      "Ubigeo": 130806,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "HUAYO",
+      "": ""
+    },
+    {
+      "N�": 582,
+      "Ubigeo": 130807,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "ONGON",
+      "": ""
+    },
+    {
+      "N�": 583,
+      "Ubigeo": 130809,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "PATAZ",
+      "": ""
+    },
+    {
+      "N�": 584,
+      "Ubigeo": 130810,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "PIAS",
+      "": ""
+    },
+    {
+      "N�": 585,
+      "Ubigeo": 130812,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "TAURIJA",
+      "": ""
+    },
+    {
+      "N�": 586,
+      "Ubigeo": 130813,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "PATAZ",
+      "Distrito": "URPAY",
+      "": ""
+    },
+    {
+      "N�": 587,
+      "Ubigeo": 130901,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANCHEZ CARRION",
+      "Distrito": "HUAMACHUCO",
+      "": ""
+    },
+    {
+      "N�": 588,
+      "Ubigeo": 130902,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANCHEZ CARRION",
+      "Distrito": "CHUGAY",
+      "": ""
+    },
+    {
+      "N�": 589,
+      "Ubigeo": 130903,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANCHEZ CARRION",
+      "Distrito": "COCHORCO",
+      "": ""
+    },
+    {
+      "N�": 590,
+      "Ubigeo": 130904,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANCHEZ CARRION",
+      "Distrito": "CURGOS",
+      "": ""
+    },
+    {
+      "N�": 591,
+      "Ubigeo": 130905,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANCHEZ CARRION",
+      "Distrito": "MARCABAL",
+      "": ""
+    },
+    {
+      "N�": 592,
+      "Ubigeo": 130906,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANCHEZ CARRION",
+      "Distrito": "SANAGORAN",
+      "": ""
+    },
+    {
+      "N�": 593,
+      "Ubigeo": 130907,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANCHEZ CARRION",
+      "Distrito": "SARIN",
+      "": ""
+    },
+    {
+      "N�": 594,
+      "Ubigeo": 130908,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANCHEZ CARRION",
+      "Distrito": "SARTIMBAMBA",
+      "": ""
+    },
+    {
+      "N�": 595,
+      "Ubigeo": 131005,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANTIAGO DE CHUCO",
+      "Distrito": "MOLLEPATA",
+      "": ""
+    },
+    {
+      "N�": 596,
+      "Ubigeo": 131007,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANTIAGO DE CHUCO",
+      "Distrito": "SANTA CRUZ DE CHUCA",
+      "": ""
+    },
+    {
+      "N�": 597,
+      "Ubigeo": 131008,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "SANTIAGO DE CHUCO",
+      "Distrito": "SITABAMBA",
+      "": ""
+    },
+    {
+      "N�": 598,
+      "Ubigeo": 131102,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "GRAN CHIMU",
+      "Distrito": "LUCMA",
+      "": ""
+    },
+    {
+      "N�": 599,
+      "Ubigeo": 131103,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "GRAN CHIMU",
+      "Distrito": "COMPIN",
+      "": ""
+    },
+    {
+      "N�": 600,
+      "Ubigeo": 131104,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "GRAN CHIMU",
+      "Distrito": "SAYAPULLO",
+      "": ""
+    },
+    {
+      "N�": 601,
+      "Ubigeo": 131201,
+      "Departamento": "LA LIBERTAD",
+      "Provincia": "VIRU",
+      "Distrito": "VIRU",
+      "": ""
+    },
+    {
+      "N�": 602,
+      "Ubigeo": 140101,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "CHICLAYO",
+      "Distrito": "CHICLAYO",
+      "": ""
+    },
+    {
+      "N�": 603,
+      "Ubigeo": 140105,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "CHICLAYO",
+      "Distrito": "JOSE LEONARDO ORTIZ",
+      "": ""
+    },
+    {
+      "N�": 604,
+      "Ubigeo": 140106,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "CHICLAYO",
+      "Distrito": "LA VICTORIA",
+      "": ""
+    },
+    {
+      "N�": 605,
+      "Ubigeo": 140108,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "CHICLAYO",
+      "Distrito": "MONSEFU",
+      "": ""
+    },
+    {
+      "N�": 606,
+      "Ubigeo": 140112,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "CHICLAYO",
+      "Distrito": "PIMENTEL",
+      "": ""
+    },
+    {
+      "N�": 607,
+      "Ubigeo": 140118,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "CHICLAYO",
+      "Distrito": "POMALCA",
+      "": ""
+    },
+    {
+      "N�": 608,
+      "Ubigeo": 140120,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "CHICLAYO",
+      "Distrito": "TUMAN",
+      "": ""
+    },
+    {
+      "N�": 609,
+      "Ubigeo": 140201,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "FERRE�AFE",
+      "Distrito": "FERRE�AFE",
+      "": ""
+    },
+    {
+      "N�": 610,
+      "Ubigeo": 140202,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "FERRE�AFE",
+      "Distrito": "CA�ARIS",
+      "": ""
+    },
+    {
+      "N�": 611,
+      "Ubigeo": 140203,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "FERRE�AFE",
+      "Distrito": "INCAHUASI",
+      "": ""
+    },
+    {
+      "N�": 612,
+      "Ubigeo": 140206,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "FERRE�AFE",
+      "Distrito": "PUEBLO NUEVO",
+      "": ""
+    },
+    {
+      "N�": 613,
+      "Ubigeo": 140301,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "LAMBAYEQUE",
+      "Distrito": "LAMBAYEQUE",
+      "": ""
+    },
+    {
+      "N�": 614,
+      "Ubigeo": 140302,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "LAMBAYEQUE",
+      "Distrito": "CHOCHOPE",
+      "": ""
+    },
+    {
+      "N�": 615,
+      "Ubigeo": 140306,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "LAMBAYEQUE",
+      "Distrito": "MORROPE",
+      "": ""
+    },
+    {
+      "N�": 616,
+      "Ubigeo": 140308,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "LAMBAYEQUE",
+      "Distrito": "OLMOS",
+      "": ""
+    },
+    {
+      "N�": 617,
+      "Ubigeo": 140310,
+      "Departamento": "LAMBAYEQUE",
+      "Provincia": "LAMBAYEQUE",
+      "Distrito": "SALAS",
+      "": ""
+    },
+    {
+      "N�": 618,
+      "Ubigeo": 150101,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "LIMA",
+      "": ""
+    },
+    {
+      "N�": 619,
+      "Ubigeo": 150102,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "ANCON",
+      "": ""
+    },
+    {
+      "N�": 620,
+      "Ubigeo": 150103,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "ATE",
+      "": ""
+    },
+    {
+      "N�": 621,
+      "Ubigeo": 150104,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "BARRANCO",
+      "": ""
+    },
+    {
+      "N�": 622,
+      "Ubigeo": 150105,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "BRE�A",
+      "": ""
+    },
+    {
+      "N�": 623,
+      "Ubigeo": 150106,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "CARABAYLLO",
+      "": ""
+    },
+    {
+      "N�": 624,
+      "Ubigeo": 150107,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "CHACLACAYO",
+      "": ""
+    },
+    {
+      "N�": 625,
+      "Ubigeo": 150108,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "CHORRILLOS",
+      "": ""
+    },
+    {
+      "N�": 626,
+      "Ubigeo": 150109,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "CIENEGUILLA",
+      "": ""
+    },
+    {
+      "N�": 627,
+      "Ubigeo": 150110,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "COMAS",
+      "": ""
+    },
+    {
+      "N�": 628,
+      "Ubigeo": 150111,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "EL AGUSTINO",
+      "": ""
+    },
+    {
+      "N�": 629,
+      "Ubigeo": 150112,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "INDEPENDENCIA",
+      "": ""
+    },
+    {
+      "N�": 630,
+      "Ubigeo": 150113,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "JESUS MARIA",
+      "": ""
+    },
+    {
+      "N�": 631,
+      "Ubigeo": 150114,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "LA MOLINA",
+      "": ""
+    },
+    {
+      "N�": 632,
+      "Ubigeo": 150115,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "LA VICTORIA",
+      "": ""
+    },
+    {
+      "N�": 633,
+      "Ubigeo": 150116,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "LINCE",
+      "": ""
+    },
+    {
+      "N�": 634,
+      "Ubigeo": 150117,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "LOS OLIVOS",
+      "": ""
+    },
+    {
+      "N�": 635,
+      "Ubigeo": 150118,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "LURIGANCHO",
+      "": ""
+    },
+    {
+      "N�": 636,
+      "Ubigeo": 150119,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "LURIN",
+      "": ""
+    },
+    {
+      "N�": 637,
+      "Ubigeo": 150120,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "MAGDALENA DEL MAR",
+      "": ""
+    },
+    {
+      "N�": 638,
+      "Ubigeo": 150121,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "PUEBLO LIBRE",
+      "": ""
+    },
+    {
+      "N�": 639,
+      "Ubigeo": 150122,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "MIRAFLORES",
+      "": ""
+    },
+    {
+      "N�": 640,
+      "Ubigeo": 150123,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "PACHACAMAC",
+      "": ""
+    },
+    {
+      "N�": 641,
+      "Ubigeo": 150124,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "PUCUSANA",
+      "": ""
+    },
+    {
+      "N�": 642,
+      "Ubigeo": 150125,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "PUENTE PIEDRA",
+      "": ""
+    },
+    {
+      "N�": 643,
+      "Ubigeo": 150126,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "PUNTA HERMOSA",
+      "": ""
+    },
+    {
+      "N�": 644,
+      "Ubigeo": 150127,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "PUNTA NEGRA",
+      "": ""
+    },
+    {
+      "N�": 645,
+      "Ubigeo": 150128,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "RIMAC",
+      "": ""
+    },
+    {
+      "N�": 646,
+      "Ubigeo": 150129,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SAN BARTOLO",
+      "": ""
+    },
+    {
+      "N�": 647,
+      "Ubigeo": 150130,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SAN BORJA",
+      "": ""
+    },
+    {
+      "N�": 648,
+      "Ubigeo": 150131,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SAN ISIDRO",
+      "": ""
+    },
+    {
+      "N�": 649,
+      "Ubigeo": 150132,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SAN JUAN DE LURIGANCHO",
+      "": ""
+    },
+    {
+      "N�": 650,
+      "Ubigeo": 150133,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SAN JUAN DE MIRAFLORES",
+      "": ""
+    },
+    {
+      "N�": 651,
+      "Ubigeo": 150134,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SAN LUIS",
+      "": ""
+    },
+    {
+      "N�": 652,
+      "Ubigeo": 150135,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SAN MARTIN DE PORRES",
+      "": ""
+    },
+    {
+      "N�": 653,
+      "Ubigeo": 150136,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SAN MIGUEL",
+      "": ""
+    },
+    {
+      "N�": 654,
+      "Ubigeo": 150137,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SANTA ANITA",
+      "": ""
+    },
+    {
+      "N�": 655,
+      "Ubigeo": 150138,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SANTA MARIA DEL MAR",
+      "": ""
+    },
+    {
+      "N�": 656,
+      "Ubigeo": 150139,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SANTA ROSA",
+      "": ""
+    },
+    {
+      "N�": 657,
+      "Ubigeo": 150140,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SANTIAGO DE SURCO",
+      "": ""
+    },
+    {
+      "N�": 658,
+      "Ubigeo": 150141,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "SURQUILLO",
+      "": ""
+    },
+    {
+      "N�": 659,
+      "Ubigeo": 150142,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "VILLA EL SALVADOR",
+      "": ""
+    },
+    {
+      "N�": 660,
+      "Ubigeo": 150143,
+      "Departamento": "LIMA",
+      "Provincia": "LIMA",
+      "Distrito": "VILLA MARIA DEL TRIUNFO",
+      "": ""
+    },
+    {
+      "N�": 661,
+      "Ubigeo": 150201,
+      "Departamento": "LIMA",
+      "Provincia": "BARRANCA",
+      "Distrito": "BARRANCA",
+      "": ""
+    },
+    {
+      "N�": 662,
+      "Ubigeo": 150202,
+      "Departamento": "LIMA",
+      "Provincia": "BARRANCA",
+      "Distrito": "PARAMONGA",
+      "": ""
+    },
+    {
+      "N�": 663,
+      "Ubigeo": 150204,
+      "Departamento": "LIMA",
+      "Provincia": "BARRANCA",
+      "Distrito": "SUPE",
+      "": ""
+    },
+    {
+      "N�": 664,
+      "Ubigeo": 150205,
+      "Departamento": "LIMA",
+      "Provincia": "BARRANCA",
+      "Distrito": "SUPE PUERTO",
+      "": ""
+    },
+    {
+      "N�": 665,
+      "Ubigeo": 150303,
+      "Departamento": "LIMA",
+      "Provincia": "CAJATAMBO",
+      "Distrito": "GORGOR",
+      "": ""
+    },
+    {
+      "N�": 666,
+      "Ubigeo": 150501,
+      "Departamento": "LIMA",
+      "Provincia": "CA�ETE",
+      "Distrito": "SAN VICENTE DE CA�ETE",
+      "": ""
+    },
+    {
+      "N�": 667,
+      "Ubigeo": 150507,
+      "Departamento": "LIMA",
+      "Provincia": "CA�ETE",
+      "Distrito": "IMPERIAL",
+      "": ""
+    },
+    {
+      "N�": 668,
+      "Ubigeo": 150509,
+      "Departamento": "LIMA",
+      "Provincia": "CA�ETE",
+      "Distrito": "MALA",
+      "": ""
+    },
+    {
+      "N�": 669,
+      "Ubigeo": 150601,
+      "Departamento": "LIMA",
+      "Provincia": "HUARAL",
+      "Distrito": "HUARAL",
+      "": ""
+    },
+    {
+      "N�": 670,
+      "Ubigeo": 150605,
+      "Departamento": "LIMA",
+      "Provincia": "HUARAL",
+      "Distrito": "CHANCAY",
+      "": ""
+    },
+    {
+      "N�": 671,
+      "Ubigeo": 150702,
+      "Departamento": "LIMA",
+      "Provincia": "HUAROCHIRI",
+      "Distrito": "ANTIOQUIA",
+      "": ""
+    },
+    {
+      "N�": 672,
+      "Ubigeo": 150706,
+      "Departamento": "LIMA",
+      "Provincia": "HUAROCHIRI",
+      "Distrito": "CUENCA",
+      "": ""
+    },
+    {
+      "N�": 673,
+      "Ubigeo": 150713,
+      "Departamento": "LIMA",
+      "Provincia": "HUAROCHIRI",
+      "Distrito": "MARIATANA",
+      "": ""
+    },
+    {
+      "N�": 674,
+      "Ubigeo": 150716,
+      "Departamento": "LIMA",
+      "Provincia": "HUAROCHIRI",
+      "Distrito": "SAN ANTONIO",
+      "": ""
+    },
+    {
+      "N�": 675,
+      "Ubigeo": 150723,
+      "Departamento": "LIMA",
+      "Provincia": "HUAROCHIRI",
+      "Distrito": "SAN MATEO DE OTAO",
+      "": ""
+    },
+    {
+      "N�": 676,
+      "Ubigeo": 150726,
+      "Departamento": "LIMA",
+      "Provincia": "HUAROCHIRI",
+      "Distrito": "SANGALLAYA",
+      "": ""
+    },
+    {
+      "N�": 677,
+      "Ubigeo": 150731,
+      "Departamento": "LIMA",
+      "Provincia": "HUAROCHIRI",
+      "Distrito": "SANTO DOMINGO DE LOS OLLEROS",
+      "": ""
+    },
+    {
+      "N�": 678,
+      "Ubigeo": 150801,
+      "Departamento": "LIMA",
+      "Provincia": "HUAURA",
+      "Distrito": "HUACHO",
+      "": ""
+    },
+    {
+      "N�": 679,
+      "Ubigeo": 150802,
+      "Departamento": "LIMA",
+      "Provincia": "HUAURA",
+      "Distrito": "AMBAR",
+      "": ""
+    },
+    {
+      "N�": 680,
+      "Ubigeo": 150803,
+      "Departamento": "LIMA",
+      "Provincia": "HUAURA",
+      "Distrito": "CALETA DE CARQUIN",
+      "": ""
+    },
+    {
+      "N�": 681,
+      "Ubigeo": 150805,
+      "Departamento": "LIMA",
+      "Provincia": "HUAURA",
+      "Distrito": "HUALMAY",
+      "": ""
+    },
+    {
+      "N�": 682,
+      "Ubigeo": 150806,
+      "Departamento": "LIMA",
+      "Provincia": "HUAURA",
+      "Distrito": "HUAURA",
+      "": ""
+    },
+    {
+      "N�": 683,
+      "Ubigeo": 150807,
+      "Departamento": "LIMA",
+      "Provincia": "HUAURA",
+      "Distrito": "LEONCIO PRADO",
+      "": ""
+    },
+    {
+      "N�": 684,
+      "Ubigeo": 150810,
+      "Departamento": "LIMA",
+      "Provincia": "HUAURA",
+      "Distrito": "SANTA MARIA",
+      "": ""
+    },
+    {
+      "N�": 685,
+      "Ubigeo": 150904,
+      "Departamento": "LIMA",
+      "Provincia": "OYON",
+      "Distrito": "COCHAMARCA",
+      "": ""
+    },
+    {
+      "N�": 686,
+      "Ubigeo": 150905,
+      "Departamento": "LIMA",
+      "Provincia": "OYON",
+      "Distrito": "NAVAN",
+      "": ""
+    },
+    {
+      "N�": 687,
+      "Ubigeo": 151002,
+      "Departamento": "LIMA",
+      "Provincia": "YAUYOS",
+      "Distrito": "ALIS",
+      "": ""
+    },
+    {
+      "N�": 688,
+      "Ubigeo": 151005,
+      "Departamento": "LIMA",
+      "Provincia": "YAUYOS",
+      "Distrito": "AZANGARO",
+      "": ""
+    },
+    {
+      "N�": 689,
+      "Ubigeo": 151009,
+      "Departamento": "LIMA",
+      "Provincia": "YAUYOS",
+      "Distrito": "CHOCOS",
+      "": ""
+    },
+    {
+      "N�": 690,
+      "Ubigeo": 151019,
+      "Departamento": "LIMA",
+      "Provincia": "YAUYOS",
+      "Distrito": "LINCHA",
+      "": ""
+    },
+    {
+      "N�": 691,
+      "Ubigeo": 160101,
+      "Departamento": "LORETO",
+      "Provincia": "MAYNAS",
+      "Distrito": "IQUITOS",
+      "": ""
+    },
+    {
+      "N�": 692,
+      "Ubigeo": 160102,
+      "Departamento": "LORETO",
+      "Provincia": "MAYNAS",
+      "Distrito": "ALTO NANAY",
+      "": ""
+    },
+    {
+      "N�": 693,
+      "Ubigeo": 160105,
+      "Departamento": "LORETO",
+      "Provincia": "MAYNAS",
+      "Distrito": "LAS AMAZONAS",
+      "": ""
+    },
+    {
+      "N�": 694,
+      "Ubigeo": 160107,
+      "Departamento": "LORETO",
+      "Provincia": "MAYNAS",
+      "Distrito": "NAPO",
+      "": ""
+    },
+    {
+      "N�": 695,
+      "Ubigeo": 160108,
+      "Departamento": "LORETO",
+      "Provincia": "MAYNAS",
+      "Distrito": "PUNCHANA",
+      "": ""
+    },
+    {
+      "N�": 696,
+      "Ubigeo": 160110,
+      "Departamento": "LORETO",
+      "Provincia": "MAYNAS",
+      "Distrito": "TORRES CAUSANA",
+      "": ""
+    },
+    {
+      "N�": 697,
+      "Ubigeo": 160112,
+      "Departamento": "LORETO",
+      "Provincia": "MAYNAS",
+      "Distrito": "BELEN",
+      "": ""
+    },
+    {
+      "N�": 698,
+      "Ubigeo": 160113,
+      "Departamento": "LORETO",
+      "Provincia": "MAYNAS",
+      "Distrito": "SAN JUAN BAUTISTA",
+      "": ""
+    },
+    {
+      "N�": 699,
+      "Ubigeo": 160201,
+      "Departamento": "LORETO",
+      "Provincia": "ALTO AMAZONAS",
+      "Distrito": "YURIMAGUAS",
+      "": ""
+    },
+    {
+      "N�": 700,
+      "Ubigeo": 160202,
+      "Departamento": "LORETO",
+      "Provincia": "ALTO AMAZONAS",
+      "Distrito": "BALSAPUERTO",
+      "": ""
+    },
+    {
+      "N�": 701,
+      "Ubigeo": 160210,
+      "Departamento": "LORETO",
+      "Provincia": "ALTO AMAZONAS",
+      "Distrito": "SANTA CRUZ",
+      "": ""
+    },
+    {
+      "N�": 702,
+      "Ubigeo": 160302,
+      "Departamento": "LORETO",
+      "Provincia": "LORETO",
+      "Distrito": "PARINARI",
+      "": ""
+    },
+    {
+      "N�": 703,
+      "Ubigeo": 160303,
+      "Departamento": "LORETO",
+      "Provincia": "LORETO",
+      "Distrito": "TIGRE",
+      "": ""
+    },
+    {
+      "N�": 704,
+      "Ubigeo": 160304,
+      "Departamento": "LORETO",
+      "Provincia": "LORETO",
+      "Distrito": "TROMPETEROS",
+      "": ""
+    },
+    {
+      "N�": 705,
+      "Ubigeo": 160305,
+      "Departamento": "LORETO",
+      "Provincia": "LORETO",
+      "Distrito": "URARINAS",
+      "": ""
+    },
+    {
+      "N�": 706,
+      "Ubigeo": 160402,
+      "Departamento": "LORETO",
+      "Provincia": "MARISCAL RAMON CASTILLA",
+      "Distrito": "PEBAS",
+      "": ""
+    },
+    {
+      "N�": 707,
+      "Ubigeo": 160403,
+      "Departamento": "LORETO",
+      "Provincia": "MARISCAL RAMON CASTILLA",
+      "Distrito": "YAVARI",
+      "": ""
+    },
+    {
+      "N�": 708,
+      "Ubigeo": 160404,
+      "Departamento": "LORETO",
+      "Provincia": "MARISCAL RAMON CASTILLA",
+      "Distrito": "SAN PABLO",
+      "": ""
+    },
+    {
+      "N�": 709,
+      "Ubigeo": 160501,
+      "Departamento": "LORETO",
+      "Provincia": "REQUENA",
+      "Distrito": "REQUENA",
+      "": ""
+    },
+    {
+      "N�": 710,
+      "Ubigeo": 160505,
+      "Departamento": "LORETO",
+      "Provincia": "REQUENA",
+      "Distrito": "MAQUIA",
+      "": ""
+    },
+    {
+      "N�": 711,
+      "Ubigeo": 160507,
+      "Departamento": "LORETO",
+      "Provincia": "REQUENA",
+      "Distrito": "SAQUENA",
+      "": ""
+    },
+    {
+      "N�": 712,
+      "Ubigeo": 160508,
+      "Departamento": "LORETO",
+      "Provincia": "REQUENA",
+      "Distrito": "SOPLIN",
+      "": ""
+    },
+    {
+      "N�": 713,
+      "Ubigeo": 160604,
+      "Departamento": "LORETO",
+      "Provincia": "UCAYALI",
+      "Distrito": "PAMPA HERMOSA",
+      "": ""
+    },
+    {
+      "N�": 714,
+      "Ubigeo": 160702,
+      "Departamento": "LORETO",
+      "Provincia": "DATEM DEL MARA�ON",
+      "Distrito": "CAHUAPANAS",
+      "": ""
+    },
+    {
+      "N�": 715,
+      "Ubigeo": 160703,
+      "Departamento": "LORETO",
+      "Provincia": "DATEM DEL MARA�ON",
+      "Distrito": "MANSERICHE",
+      "": ""
+    },
+    {
+      "N�": 716,
+      "Ubigeo": 160706,
+      "Departamento": "LORETO",
+      "Provincia": "DATEM DEL MARA�ON",
+      "Distrito": "ANDOAS",
+      "": ""
+    },
+    {
+      "N�": 717,
+      "Ubigeo": 160803,
+      "Departamento": "LORETO",
+      "Provincia": "PUTUMAYO",
+      "Distrito": "TENIENTE MANUEL CLAVERO",
+      "": ""
+    },
+    {
+      "N�": 718,
+      "Ubigeo": 160804,
+      "Departamento": "LORETO",
+      "Provincia": "PUTUMAYO",
+      "Distrito": "YAGUAS",
+      "": ""
+    },
+    {
+      "N�": 719,
+      "Ubigeo": 170101,
+      "Departamento": "MADRE DE DIOS",
+      "Provincia": "TAMBOPATA",
+      "Distrito": "TAMBOPATA",
+      "": ""
+    },
+    {
+      "N�": 720,
+      "Ubigeo": 170103,
+      "Departamento": "MADRE DE DIOS",
+      "Provincia": "TAMBOPATA",
+      "Distrito": "LAS PIEDRAS",
+      "": ""
+    },
+    {
+      "N�": 721,
+      "Ubigeo": 170202,
+      "Departamento": "MADRE DE DIOS",
+      "Provincia": "MANU",
+      "Distrito": "FITZCARRALD",
+      "": ""
+    },
+    {
+      "N�": 722,
+      "Ubigeo": 180101,
+      "Departamento": "MOQUEGUA",
+      "Provincia": "MARISCAL NIETO",
+      "Distrito": "MOQUEGUA",
+      "": ""
+    },
+    {
+      "N�": 723,
+      "Ubigeo": 180104,
+      "Departamento": "MOQUEGUA",
+      "Provincia": "MARISCAL NIETO",
+      "Distrito": "SAMEGUA",
+      "": ""
+    },
+    {
+      "N�": 724,
+      "Ubigeo": 180204,
+      "Departamento": "MOQUEGUA",
+      "Provincia": "GENERAL SANCHEZ CERRO",
+      "Distrito": "ICHU�A",
+      "": ""
+    },
+    {
+      "N�": 725,
+      "Ubigeo": 180205,
+      "Departamento": "MOQUEGUA",
+      "Provincia": "GENERAL SANCHEZ CERRO",
+      "Distrito": "LA CAPILLA",
+      "": ""
+    },
+    {
+      "N�": 726,
+      "Ubigeo": 180301,
+      "Departamento": "MOQUEGUA",
+      "Provincia": "ILO",
+      "Distrito": "ILO",
+      "": ""
+    },
+    {
+      "N�": 727,
+      "Ubigeo": 180302,
+      "Departamento": "MOQUEGUA",
+      "Provincia": "ILO",
+      "Distrito": "EL ALGARROBAL",
+      "": ""
+    },
+    {
+      "N�": 728,
+      "Ubigeo": 180303,
+      "Departamento": "MOQUEGUA",
+      "Provincia": "ILO",
+      "Distrito": "PACOCHA",
+      "": ""
+    },
+    {
+      "N�": 729,
+      "Ubigeo": 190101,
+      "Departamento": "PASCO",
+      "Provincia": "PASCO",
+      "Distrito": "CHAUPIMARCA",
+      "": ""
+    },
+    {
+      "N�": 730,
+      "Ubigeo": 190109,
+      "Departamento": "PASCO",
+      "Provincia": "PASCO",
+      "Distrito": "SIMON BOLIVAR",
+      "": ""
+    },
+    {
+      "N�": 731,
+      "Ubigeo": 190113,
+      "Departamento": "PASCO",
+      "Provincia": "PASCO",
+      "Distrito": "YANACANCHA",
+      "": ""
+    },
+    {
+      "N�": 732,
+      "Ubigeo": 190206,
+      "Departamento": "PASCO",
+      "Provincia": "DANIEL ALCIDES CARRION",
+      "Distrito": "SANTA ANA DE TUSI",
+      "": ""
+    },
+    {
+      "N�": 733,
+      "Ubigeo": 190304,
+      "Departamento": "PASCO",
+      "Provincia": "OXAPAMPA",
+      "Distrito": "PALCAZU",
+      "": ""
+    },
+    {
+      "N�": 734,
+      "Ubigeo": 190305,
+      "Departamento": "PASCO",
+      "Provincia": "OXAPAMPA",
+      "Distrito": "POZUZO",
+      "": ""
+    },
+    {
+      "N�": 735,
+      "Ubigeo": 200101,
+      "Departamento": "PIURA",
+      "Provincia": "PIURA",
+      "Distrito": "PIURA",
+      "": ""
+    },
+    {
+      "N�": 736,
+      "Ubigeo": 200104,
+      "Departamento": "PIURA",
+      "Provincia": "PIURA",
+      "Distrito": "CASTILLA",
+      "": ""
+    },
+    {
+      "N�": 737,
+      "Ubigeo": 200105,
+      "Departamento": "PIURA",
+      "Provincia": "PIURA",
+      "Distrito": "CATACAOS",
+      "": ""
+    },
+    {
+      "N�": 738,
+      "Ubigeo": 200109,
+      "Departamento": "PIURA",
+      "Provincia": "PIURA",
+      "Distrito": "LA ARENA",
+      "": ""
+    },
+    {
+      "N�": 739,
+      "Ubigeo": 200110,
+      "Departamento": "PIURA",
+      "Provincia": "PIURA",
+      "Distrito": "LA UNION",
+      "": ""
+    },
+    {
+      "N�": 740,
+      "Ubigeo": 200114,
+      "Departamento": "PIURA",
+      "Provincia": "PIURA",
+      "Distrito": "TAMBO GRANDE",
+      "": ""
+    },
+    {
+      "N�": 741,
+      "Ubigeo": 200115,
+      "Departamento": "PIURA",
+      "Provincia": "PIURA",
+      "Distrito": "VEINTIS�IS DE OCTUBRE",
+      "": ""
+    },
+    {
+      "N�": 742,
+      "Ubigeo": 200202,
+      "Departamento": "PIURA",
+      "Provincia": "AYABACA",
+      "Distrito": "FRIAS",
+      "": ""
+    },
+    {
+      "N�": 743,
+      "Ubigeo": 200203,
+      "Departamento": "PIURA",
+      "Provincia": "AYABACA",
+      "Distrito": "JILILI",
+      "": ""
+    },
+    {
+      "N�": 744,
+      "Ubigeo": 200204,
+      "Departamento": "PIURA",
+      "Provincia": "AYABACA",
+      "Distrito": "LAGUNAS",
+      "": ""
+    },
+    {
+      "N�": 745,
+      "Ubigeo": 200205,
+      "Departamento": "PIURA",
+      "Provincia": "AYABACA",
+      "Distrito": "MONTERO",
+      "": ""
+    },
+    {
+      "N�": 746,
+      "Ubigeo": 200206,
+      "Departamento": "PIURA",
+      "Provincia": "AYABACA",
+      "Distrito": "PACAIPAMPA",
+      "": ""
+    },
+    {
+      "N�": 747,
+      "Ubigeo": 200207,
+      "Departamento": "PIURA",
+      "Provincia": "AYABACA",
+      "Distrito": "PAIMAS",
+      "": ""
+    },
+    {
+      "N�": 748,
+      "Ubigeo": 200208,
+      "Departamento": "PIURA",
+      "Provincia": "AYABACA",
+      "Distrito": "SAPILLICA",
+      "": ""
+    },
+    {
+      "N�": 749,
+      "Ubigeo": 200210,
+      "Departamento": "PIURA",
+      "Provincia": "AYABACA",
+      "Distrito": "SUYO",
+      "": ""
+    },
+    {
+      "N�": 750,
+      "Ubigeo": 200302,
+      "Departamento": "PIURA",
+      "Provincia": "HUANCABAMBA",
+      "Distrito": "CANCHAQUE",
+      "": ""
+    },
+    {
+      "N�": 751,
+      "Ubigeo": 200303,
+      "Departamento": "PIURA",
+      "Provincia": "HUANCABAMBA",
+      "Distrito": "EL CARMEN DE LA FRONTERA",
+      "": ""
+    },
+    {
+      "N�": 752,
+      "Ubigeo": 200304,
+      "Departamento": "PIURA",
+      "Provincia": "HUANCABAMBA",
+      "Distrito": "HUARMACA",
+      "": ""
+    },
+    {
+      "N�": 753,
+      "Ubigeo": 200305,
+      "Departamento": "PIURA",
+      "Provincia": "HUANCABAMBA",
+      "Distrito": "LALAQUIZ",
+      "": ""
+    },
+    {
+      "N�": 754,
+      "Ubigeo": 200306,
+      "Departamento": "PIURA",
+      "Provincia": "HUANCABAMBA",
+      "Distrito": "SAN MIGUEL DE EL FAIQUE",
+      "": ""
+    },
+    {
+      "N�": 755,
+      "Ubigeo": 200307,
+      "Departamento": "PIURA",
+      "Provincia": "HUANCABAMBA",
+      "Distrito": "SONDOR",
+      "": ""
+    },
+    {
+      "N�": 756,
+      "Ubigeo": 200308,
+      "Departamento": "PIURA",
+      "Provincia": "HUANCABAMBA",
+      "Distrito": "SONDORILLO",
+      "": ""
+    },
+    {
+      "N�": 757,
+      "Ubigeo": 200401,
+      "Departamento": "PIURA",
+      "Provincia": "MORROPON",
+      "Distrito": "CHULUCANAS",
+      "": ""
+    },
+    {
+      "N�": 758,
+      "Ubigeo": 200403,
+      "Departamento": "PIURA",
+      "Provincia": "MORROPON",
+      "Distrito": "CHALACO",
+      "": ""
+    },
+    {
+      "N�": 759,
+      "Ubigeo": 200409,
+      "Departamento": "PIURA",
+      "Provincia": "MORROPON",
+      "Distrito": "SANTO DOMINGO",
+      "": ""
+    },
+    {
+      "N�": 760,
+      "Ubigeo": 200410,
+      "Departamento": "PIURA",
+      "Provincia": "MORROPON",
+      "Distrito": "YAMANGO",
+      "": ""
+    },
+    {
+      "N�": 761,
+      "Ubigeo": 200501,
+      "Departamento": "PIURA",
+      "Provincia": "PAITA",
+      "Distrito": "PAITA",
+      "": ""
+    },
+    {
+      "N�": 762,
+      "Ubigeo": 200601,
+      "Departamento": "PIURA",
+      "Provincia": "SULLANA",
+      "Distrito": "SULLANA",
+      "": ""
+    },
+    {
+      "N�": 763,
+      "Ubigeo": 200602,
+      "Departamento": "PIURA",
+      "Provincia": "SULLANA",
+      "Distrito": "BELLAVISTA",
+      "": ""
+    },
+    {
+      "N�": 764,
+      "Ubigeo": 200604,
+      "Departamento": "PIURA",
+      "Provincia": "SULLANA",
+      "Distrito": "LANCONES",
+      "": ""
+    },
+    {
+      "N�": 765,
+      "Ubigeo": 200701,
+      "Departamento": "PIURA",
+      "Provincia": "TALARA",
+      "Distrito": "PARI�AS",
+      "": ""
+    },
+    {
+      "N�": 766,
+      "Ubigeo": 200801,
+      "Departamento": "PIURA",
+      "Provincia": "SECHURA",
+      "Distrito": "SECHURA",
+      "": ""
+    },
+    {
+      "N�": 767,
+      "Ubigeo": 210101,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "PUNO",
+      "": ""
+    },
+    {
+      "N�": 768,
+      "Ubigeo": 210102,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "ACORA",
+      "": ""
+    },
+    {
+      "N�": 769,
+      "Ubigeo": 210103,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "AMANTANI",
+      "": ""
+    },
+    {
+      "N�": 770,
+      "Ubigeo": 210104,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "ATUNCOLLA",
+      "": ""
+    },
+    {
+      "N�": 771,
+      "Ubigeo": 210105,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "CAPACHICA",
+      "": ""
+    },
+    {
+      "N�": 772,
+      "Ubigeo": 210106,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "CHUCUITO",
+      "": ""
+    },
+    {
+      "N�": 773,
+      "Ubigeo": 210107,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "COATA",
+      "": ""
+    },
+    {
+      "N�": 774,
+      "Ubigeo": 210108,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "HUATA",
+      "": ""
+    },
+    {
+      "N�": 775,
+      "Ubigeo": 210110,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "PAUCARCOLLA",
+      "": ""
+    },
+    {
+      "N�": 776,
+      "Ubigeo": 210112,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "PLATERIA",
+      "": ""
+    },
+    {
+      "N�": 777,
+      "Ubigeo": 210113,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "SAN ANTONIO",
+      "": ""
+    },
+    {
+      "N�": 778,
+      "Ubigeo": 210114,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "TIQUILLACA",
+      "": ""
+    },
+    {
+      "N�": 779,
+      "Ubigeo": 210115,
+      "Departamento": "PUNO",
+      "Provincia": "PUNO",
+      "Distrito": "VILQUE",
+      "": ""
+    },
+    {
+      "N�": 780,
+      "Ubigeo": 210201,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "AZANGARO",
+      "": ""
+    },
+    {
+      "N�": 781,
+      "Ubigeo": 210202,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "ACHAYA",
+      "": ""
+    },
+    {
+      "N�": 782,
+      "Ubigeo": 210203,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "ARAPA",
+      "": ""
+    },
+    {
+      "N�": 783,
+      "Ubigeo": 210204,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "ASILLO",
+      "": ""
+    },
+    {
+      "N�": 784,
+      "Ubigeo": 210205,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "CAMINACA",
+      "": ""
+    },
+    {
+      "N�": 785,
+      "Ubigeo": 210206,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "CHUPA",
+      "": ""
+    },
+    {
+      "N�": 786,
+      "Ubigeo": 210208,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "MU�ANI",
+      "": ""
+    },
+    {
+      "N�": 787,
+      "Ubigeo": 210210,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "SAMAN",
+      "": ""
+    },
+    {
+      "N�": 788,
+      "Ubigeo": 210213,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "SAN JUAN DE SALINAS",
+      "": ""
+    },
+    {
+      "N�": 789,
+      "Ubigeo": 210214,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "SANTIAGO DE PUPUJA",
+      "": ""
+    },
+    {
+      "N�": 790,
+      "Ubigeo": 210215,
+      "Departamento": "PUNO",
+      "Provincia": "AZANGARO",
+      "Distrito": "TIRAPATA",
+      "": ""
+    },
+    {
+      "N�": 791,
+      "Ubigeo": 210303,
+      "Departamento": "PUNO",
+      "Provincia": "CARABAYA",
+      "Distrito": "AYAPATA",
+      "": ""
+    },
+    {
+      "N�": 792,
+      "Ubigeo": 210307,
+      "Departamento": "PUNO",
+      "Provincia": "CARABAYA",
+      "Distrito": "ITUATA",
+      "": ""
+    },
+    {
+      "N�": 793,
+      "Ubigeo": 210309,
+      "Departamento": "PUNO",
+      "Provincia": "CARABAYA",
+      "Distrito": "SAN GABAN",
+      "": ""
+    },
+    {
+      "N�": 794,
+      "Ubigeo": 210403,
+      "Departamento": "PUNO",
+      "Provincia": "CHUCUITO",
+      "Distrito": "HUACULLANI",
+      "": ""
+    },
+    {
+      "N�": 795,
+      "Ubigeo": 210404,
+      "Departamento": "PUNO",
+      "Provincia": "CHUCUITO",
+      "Distrito": "KELLUYO",
+      "": ""
+    },
+    {
+      "N�": 796,
+      "Ubigeo": 210405,
+      "Departamento": "PUNO",
+      "Provincia": "CHUCUITO",
+      "Distrito": "PISACOMA",
+      "": ""
+    },
+    {
+      "N�": 797,
+      "Ubigeo": 210406,
+      "Departamento": "PUNO",
+      "Provincia": "CHUCUITO",
+      "Distrito": "POMATA",
+      "": ""
+    },
+    {
+      "N�": 798,
+      "Ubigeo": 210407,
+      "Departamento": "PUNO",
+      "Provincia": "CHUCUITO",
+      "Distrito": "ZEPITA",
+      "": ""
+    },
+    {
+      "N�": 799,
+      "Ubigeo": 210501,
+      "Departamento": "PUNO",
+      "Provincia": "EL COLLAO",
+      "Distrito": "ILAVE",
+      "": ""
+    },
+    {
+      "N�": 800,
+      "Ubigeo": 210502,
+      "Departamento": "PUNO",
+      "Provincia": "EL COLLAO",
+      "Distrito": "CAPAZO",
+      "": ""
+    },
+    {
+      "N�": 801,
+      "Ubigeo": 210503,
+      "Departamento": "PUNO",
+      "Provincia": "EL COLLAO",
+      "Distrito": "PILCUYO",
+      "": ""
+    },
+    {
+      "N�": 802,
+      "Ubigeo": 210504,
+      "Departamento": "PUNO",
+      "Provincia": "EL COLLAO",
+      "Distrito": "SANTA ROSA",
+      "": ""
+    },
+    {
+      "N�": 803,
+      "Ubigeo": 210505,
+      "Departamento": "PUNO",
+      "Provincia": "EL COLLAO",
+      "Distrito": "CONDURIRI",
+      "": ""
+    },
+    {
+      "N�": 804,
+      "Ubigeo": 210604,
+      "Departamento": "PUNO",
+      "Provincia": "HUANCANE",
+      "Distrito": "INCHUPALLA",
+      "": ""
+    },
+    {
+      "N�": 805,
+      "Ubigeo": 210605,
+      "Departamento": "PUNO",
+      "Provincia": "HUANCANE",
+      "Distrito": "PUSI",
+      "": ""
+    },
+    {
+      "N�": 806,
+      "Ubigeo": 210606,
+      "Departamento": "PUNO",
+      "Provincia": "HUANCANE",
+      "Distrito": "ROSASPATA",
+      "": ""
+    },
+    {
+      "N�": 807,
+      "Ubigeo": 210607,
+      "Departamento": "PUNO",
+      "Provincia": "HUANCANE",
+      "Distrito": "TARACO",
+      "": ""
+    },
+    {
+      "N�": 808,
+      "Ubigeo": 210608,
+      "Departamento": "PUNO",
+      "Provincia": "HUANCANE",
+      "Distrito": "VILQUE CHICO",
+      "": ""
+    },
+    {
+      "N�": 809,
+      "Ubigeo": 210702,
+      "Departamento": "PUNO",
+      "Provincia": "LAMPA",
+      "Distrito": "CABANILLA",
+      "": ""
+    },
+    {
+      "N�": 810,
+      "Ubigeo": 210703,
+      "Departamento": "PUNO",
+      "Provincia": "LAMPA",
+      "Distrito": "CALAPUJA",
+      "": ""
+    },
+    {
+      "N�": 811,
+      "Ubigeo": 210704,
+      "Departamento": "PUNO",
+      "Provincia": "LAMPA",
+      "Distrito": "NICASIO",
+      "": ""
+    },
+    {
+      "N�": 812,
+      "Ubigeo": 210705,
+      "Departamento": "PUNO",
+      "Provincia": "LAMPA",
+      "Distrito": "OCUVIRI",
+      "": ""
+    },
+    {
+      "N�": 813,
+      "Ubigeo": 210801,
+      "Departamento": "PUNO",
+      "Provincia": "MELGAR",
+      "Distrito": "AYAVIRI",
+      "": ""
+    },
+    {
+      "N�": 814,
+      "Ubigeo": 210803,
+      "Departamento": "PUNO",
+      "Provincia": "MELGAR",
+      "Distrito": "CUPI",
+      "": ""
+    },
+    {
+      "N�": 815,
+      "Ubigeo": 210807,
+      "Departamento": "PUNO",
+      "Provincia": "MELGAR",
+      "Distrito": "ORURILLO",
+      "": ""
+    },
+    {
+      "N�": 816,
+      "Ubigeo": 210809,
+      "Departamento": "PUNO",
+      "Provincia": "MELGAR",
+      "Distrito": "UMACHIRI",
+      "": ""
+    },
+    {
+      "N�": 817,
+      "Ubigeo": 210902,
+      "Departamento": "PUNO",
+      "Provincia": "MOHO",
+      "Distrito": "CONIMA",
+      "": ""
+    },
+    {
+      "N�": 818,
+      "Ubigeo": 210904,
+      "Departamento": "PUNO",
+      "Provincia": "MOHO",
+      "Distrito": "TILALI",
+      "": ""
+    },
+    {
+      "N�": 819,
+      "Ubigeo": 211003,
+      "Departamento": "PUNO",
+      "Provincia": "SAN ANTONIO DE PUTINA",
+      "Distrito": "PEDRO VILCA APAZA",
+      "": ""
+    },
+    {
+      "N�": 820,
+      "Ubigeo": 211005,
+      "Departamento": "PUNO",
+      "Provincia": "SAN ANTONIO DE PUTINA",
+      "Distrito": "SINA",
+      "": ""
+    },
+    {
+      "N�": 821,
+      "Ubigeo": 211101,
+      "Departamento": "PUNO",
+      "Provincia": "SAN ROMAN",
+      "Distrito": "JULIACA",
+      "": ""
+    },
+    {
+      "N�": 822,
+      "Ubigeo": 211102,
+      "Departamento": "PUNO",
+      "Provincia": "SAN ROMAN",
+      "Distrito": "CABANA",
+      "": ""
+    },
+    {
+      "N�": 823,
+      "Ubigeo": 211104,
+      "Departamento": "PUNO",
+      "Provincia": "SAN ROMAN",
+      "Distrito": "CARACOTO",
+      "": ""
+    },
+    {
+      "N�": 824,
+      "Ubigeo": 211105,
+      "Departamento": "PUNO",
+      "Provincia": "SAN ROMAN",
+      "Distrito": "SAN MIGUEL",
+      "": ""
+    },
+    {
+      "N�": 825,
+      "Ubigeo": 211204,
+      "Departamento": "PUNO",
+      "Provincia": "SANDIA",
+      "Distrito": "PATAMBUCO",
+      "": ""
+    },
+    {
+      "N�": 826,
+      "Ubigeo": 211205,
+      "Departamento": "PUNO",
+      "Provincia": "SANDIA",
+      "Distrito": "PHARA",
+      "": ""
+    },
+    {
+      "N�": 827,
+      "Ubigeo": 211206,
+      "Departamento": "PUNO",
+      "Provincia": "SANDIA",
+      "Distrito": "QUIACA",
+      "": ""
+    },
+    {
+      "N�": 828,
+      "Ubigeo": 211209,
+      "Departamento": "PUNO",
+      "Provincia": "SANDIA",
+      "Distrito": "ALTO INAMBARI",
+      "": ""
+    },
+    {
+      "N�": 829,
+      "Ubigeo": 211210,
+      "Departamento": "PUNO",
+      "Provincia": "SANDIA",
+      "Distrito": "SAN PEDRO DE PUTINA PUNCO",
+      "": ""
+    },
+    {
+      "N�": 830,
+      "Ubigeo": 211303,
+      "Departamento": "PUNO",
+      "Provincia": "YUNGUYO",
+      "Distrito": "COPANI",
+      "": ""
+    },
+    {
+      "N�": 831,
+      "Ubigeo": 211305,
+      "Departamento": "PUNO",
+      "Provincia": "YUNGUYO",
+      "Distrito": "OLLARAYA",
+      "": ""
+    },
+    {
+      "N�": 832,
+      "Ubigeo": 220101,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "MOYOBAMBA",
+      "Distrito": "MOYOBAMBA",
+      "": ""
+    },
+    {
+      "N�": 833,
+      "Ubigeo": 220203,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "BELLAVISTA",
+      "Distrito": "BAJO BIAVO",
+      "": ""
+    },
+    {
+      "N�": 834,
+      "Ubigeo": 220303,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "EL DORADO",
+      "Distrito": "SAN MARTIN",
+      "": ""
+    },
+    {
+      "N�": 835,
+      "Ubigeo": 220304,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "EL DORADO",
+      "Distrito": "SANTA ROSA",
+      "": ""
+    },
+    {
+      "N�": 836,
+      "Ubigeo": 220506,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "LAMAS",
+      "Distrito": "PINTO RECODO",
+      "": ""
+    },
+    {
+      "N�": 837,
+      "Ubigeo": 220601,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "MARISCAL CACERES",
+      "Distrito": "JUANJUI",
+      "": ""
+    },
+    {
+      "N�": 838,
+      "Ubigeo": 220602,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "MARISCAL CACERES",
+      "Distrito": "CAMPANILLA",
+      "": ""
+    },
+    {
+      "N�": 839,
+      "Ubigeo": 220605,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "MARISCAL CACERES",
+      "Distrito": "PAJARILLO",
+      "": ""
+    },
+    {
+      "N�": 840,
+      "Ubigeo": 220708,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "PICOTA",
+      "Distrito": "SHAMBOYACU",
+      "": ""
+    },
+    {
+      "N�": 841,
+      "Ubigeo": 220801,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "RIOJA",
+      "Distrito": "RIOJA",
+      "": ""
+    },
+    {
+      "N�": 842,
+      "Ubigeo": 220804,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "RIOJA",
+      "Distrito": "NUEVA CAJAMARCA",
+      "": ""
+    },
+    {
+      "N�": 843,
+      "Ubigeo": 220901,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "SAN MARTIN",
+      "Distrito": "TARAPOTO",
+      "": ""
+    },
+    {
+      "N�": 844,
+      "Ubigeo": 220909,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "SAN MARTIN",
+      "Distrito": "LA BANDA DE SHILCAYO",
+      "": ""
+    },
+    {
+      "N�": 845,
+      "Ubigeo": 220910,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "SAN MARTIN",
+      "Distrito": "MORALES",
+      "": ""
+    },
+    {
+      "N�": 846,
+      "Ubigeo": 221003,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "TOCACHE",
+      "Distrito": "POLVORA",
+      "": ""
+    },
+    {
+      "N�": 847,
+      "Ubigeo": 221004,
+      "Departamento": "SAN MARTIN",
+      "Provincia": "TOCACHE",
+      "Distrito": "SHUNTE",
+      "": ""
+    },
+    {
+      "N�": 848,
+      "Ubigeo": 230101,
+      "Departamento": "TACNA",
+      "Provincia": "TACNA",
+      "Distrito": "TACNA",
+      "": ""
+    },
+    {
+      "N�": 849,
+      "Ubigeo": 230102,
+      "Departamento": "TACNA",
+      "Provincia": "TACNA",
+      "Distrito": "ALTO DE LA ALIANZA",
+      "": ""
+    },
+    {
+      "N�": 850,
+      "Ubigeo": 230104,
+      "Departamento": "TACNA",
+      "Provincia": "TACNA",
+      "Distrito": "CIUDAD NUEVA",
+      "": ""
+    },
+    {
+      "N�": 851,
+      "Ubigeo": 230107,
+      "Departamento": "TACNA",
+      "Provincia": "TACNA",
+      "Distrito": "PALCA",
+      "": ""
+    },
+    {
+      "N�": 852,
+      "Ubigeo": 230108,
+      "Departamento": "TACNA",
+      "Provincia": "TACNA",
+      "Distrito": "POCOLLAY",
+      "": ""
+    },
+    {
+      "N�": 853,
+      "Ubigeo": 230110,
+      "Departamento": "TACNA",
+      "Provincia": "TACNA",
+      "Distrito": "CORONEL GREGORIO ALBARRACIN LANCHIPA",
+      "": ""
+    },
+    {
+      "N�": 854,
+      "Ubigeo": 230111,
+      "Departamento": "TACNA",
+      "Provincia": "TACNA",
+      "Distrito": "LA YARADA LOS PALOS",
+      "": ""
+    },
+    {
+      "N�": 855,
+      "Ubigeo": 240101,
+      "Departamento": "TUMBES",
+      "Provincia": "TUMBES",
+      "Distrito": "TUMBES",
+      "": ""
+    },
+    {
+      "N�": 856,
+      "Ubigeo": 240202,
+      "Departamento": "TUMBES",
+      "Provincia": "CONTRALMIRANTE VILLAR",
+      "Distrito": "CASITAS",
+      "": ""
+    },
+    {
+      "N�": 857,
+      "Ubigeo": 240301,
+      "Departamento": "TUMBES",
+      "Provincia": "ZARUMILLA",
+      "Distrito": "ZARUMILLA",
+      "": ""
+    },
+    {
+      "N�": 858,
+      "Ubigeo": 240302,
+      "Departamento": "TUMBES",
+      "Provincia": "ZARUMILLA",
+      "Distrito": "AGUAS VERDES",
+      "": ""
+    },
+    {
+      "N�": 859,
+      "Ubigeo": 250101,
+      "Departamento": "UCAYALI",
+      "Provincia": "CORONEL PORTILLO",
+      "Distrito": "CALLERIA",
+      "": ""
+    },
+    {
+      "N�": 860,
+      "Ubigeo": 250103,
+      "Departamento": "UCAYALI",
+      "Provincia": "CORONEL PORTILLO",
+      "Distrito": "IPARIA",
+      "": ""
+    },
+    {
+      "N�": 861,
+      "Ubigeo": 250104,
+      "Departamento": "UCAYALI",
+      "Provincia": "CORONEL PORTILLO",
+      "Distrito": "MASISEA",
+      "": ""
+    },
+    {
+      "N�": 862,
+      "Ubigeo": 250105,
+      "Departamento": "UCAYALI",
+      "Provincia": "CORONEL PORTILLO",
+      "Distrito": "YARINACOCHA",
+      "": ""
+    },
+    {
+      "N�": 863,
+      "Ubigeo": 250107,
+      "Departamento": "UCAYALI",
+      "Provincia": "CORONEL PORTILLO",
+      "Distrito": "MANANTAY",
+      "": ""
+    },
+    {
+      "N�": 864,
+      "Ubigeo": 250203,
+      "Departamento": "UCAYALI",
+      "Provincia": "ATALAYA",
+      "Distrito": "TAHUANIA",
+      "": ""
+    },
+    {
+      "N�": 865,
+      "Ubigeo": 250204,
+      "Departamento": "UCAYALI",
+      "Provincia": "ATALAYA",
+      "Distrito": "YURUA",
+      "": ""
+    }
+  ]

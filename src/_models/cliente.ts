@@ -1,0 +1,21 @@
+﻿export interface Cliente {
+    empresaId?:string
+    _id?:string  
+        nro_doc?:string
+        tipo_doc?:string
+        cliente?:string
+        direccion?:string
+        telefono?:string
+        email?:string
+        edad?:number
+        distrito?:string
+        provincia?:string
+        departamento?:string
+        ubigeo?:object
+        fec_nac?:string
+        codigo_estado?:string
+        usu_crea?:string
+        fec_crea?:Date
+        usu_modi?:string
+        fec_modi?:Date
+}

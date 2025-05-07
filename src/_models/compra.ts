@@ -1,0 +1,28 @@
+﻿export interface Compra {
+    empresaId?:string
+    _id?:string  
+        serie?:string
+        numero?:string
+        tipo_doc?:string
+        fecha?:string
+        condicion_pago?:string
+        moneda?:string
+        vencimiento?:string
+        proveedorId?:string
+        almacenId?:string
+        detalle?:object
+        estado?:string
+        compradorId?:string
+        subtotal?:number
+        igv?:number
+        total?:number
+        pagado?:number
+        porpagar?:number
+        orden?:string
+        observacion?:string
+        codigo_estado?:string
+        usu_crea?:string
+        fec_crea?:Date
+        usu_modi?:string
+        fec_modi?:Date
+}

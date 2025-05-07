@@ -1,0 +1,19 @@
+﻿export interface Personal {
+    empresaId?:string
+    _id?:string  
+        codigo?:string
+        nombres?:string
+        apellidos?:string
+        correo?:string
+        area?:string
+        fecha_ingreso?:string
+        grupo_samguineo?:string
+        alergias?:string
+        telefono?:string
+        cargo?:string
+        codigo_estado?:string
+        usu_crea?:string
+        fec_crea?:Date
+        usu_modi?:string
+        fec_modi?:Date
+}
