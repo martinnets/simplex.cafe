@@ -9,7 +9,7 @@ import moment from "moment";
 import { useAuth } from "../../modules/auth";
 import { Reporte } from "../../../_models/reporte";
 import { cellKeyboardShortcuts, MaterialReactTable, MRT_AggregationFns, MRT_ColumnDef, useMaterialReactTable } from 'material-react-table';
-import { ComposedChart, Line, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Area, LabelList, Label, Text, Cell } from "recharts";
+import { ComposedChart, Line, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Area, LabelList, Label, Text, Cell, ResponsiveContainer, LineChart, PieChart, Pie, BarChart } from "recharts";
 import { StatisticsWidget5 } from "../../../_metronic/partials/widgets";
 
 export function PanelPage() {
@@ -29,7 +29,7 @@ export function PanelPage() {
   const [moneda, setMoneda] = useState('PEN');
   const [datagrafico, setGrafico] = useState([]);
   const columns = [
-  
+
     { id: 'creador', header: 'Creador', sortable: true },
     { id: 'proceso', header: 'Proceso', sortable: true },
     { id: 'tipo', header: 'Tipo', sortable: true },
@@ -37,18 +37,24 @@ export function PanelPage() {
     { id: 'fin', header: 'Fin', sortable: true },
     { id: 'progreso', header: 'Progreso', sortable: true },
     { id: 'estado', header: 'Estado', sortable: true },
-    
+
   ];
   const exampleData = [
-    { id: 1, creador: "Super Admin", proceso: "Proceso v3", tipo: "Fit del puesto", 
-      inicio: "2025-05-29",fin:"2025-05-31", progreso: "0", estado: "Abierto" },
-    { id: 2, creador: "Admin", proceso: "Proceso v3", tipo: "Fit del puesto", 
-      inicio: "2025-05-29",fin:"2025-05-31", progreso: "50", estado: "Inactivo" },
-    { id: 3, creador: "Martin alonso", proceso: "Proceso v3", tipo: "Fit del puesto", 
-      inicio: "2025-05-29",fin:"2025-05-31", progreso: "75", estado: "Abierto" },
-    
+    {
+      id: 1, creador: "Super Admin", proceso: "Proceso v3", tipo: "Fit del puesto",
+      inicio: "2025-05-29", fin: "2025-05-31", progreso: "0", estado: "Abierto"
+    },
+    {
+      id: 2, creador: "Admin", proceso: "Proceso v3", tipo: "Fit del puesto",
+      inicio: "2025-05-29", fin: "2025-05-31", progreso: "50", estado: "Inactivo"
+    },
+    {
+      id: 3, creador: "Martin alonso", proceso: "Proceso v3", tipo: "Fit del puesto",
+      inicio: "2025-05-29", fin: "2025-05-31", progreso: "75", estado: "Abierto"
+    },
+
   ];
-  
+
   function randomIntFromInterval(min, max) { // min and max included 
     return Math.floor(Math.random() * (max - min + 1) + min);
   }
@@ -247,247 +253,250 @@ export function PanelPage() {
 
     loadExampleData();
   }, []);
-  const cardVentas = [
-    { id: 1, title: "Nota",subtitle:"de Ventas", icon: 'fa-solid fa-user-tag fs-3x', ruta: '/nota' },
-    { id: 2, title: "Venta",subtitle:" Factura/Boleta", icon: 'fa-solid fa-user-tag fs-3x', ruta: '/venta' },
-    { id: 3, title: "Pedido",subtitle:"de Venta", icon: 'fa-solid fa-user-tag fs-3x', ruta: '/pedido' },
-    { id: 4, title: "Cotizacion",subtitle:"a Cliente", icon: 'fa-solid fa-user-tag fs-3x', ruta: '/cotizacion' },
-  ];
-  const cardFinanzas = [
-    { id: 1, title: "Ingreso",subtitle:"de Dinero", icon: 'fa-solid fa-file-invoice-dollar fs-3x', ruta: '/ingreso' },
-    { id: 2, title: "Pago",subtitle:"Estandar", icon: 'fa-solid fa-file-invoice-dollar fs-3x', ruta: '/pago' },
-    { id: 3, title: "Pago",subtitle:"Pendiente", icon: 'fa-solid fa-file-invoice-dollar fs-3x', ruta: '/pagopendiente' },
-    { id: 4, title: "Pago",subtitle:"Programado", icon: 'fa-solid fa-file-invoice-dollar fs-3x', ruta: '/pagoprog' },
-  ];
-  const cardCompras = [
-    { id: 1, title: "Orden",subtitle:"de Compra", icon: 'fa-solid fa-money-bill-1 fs-3x', ruta: '/orden' },
-    { id: 2, title: "Factura",subtitle:"de Compra", icon: 'fa-solid fa-money-bill-1 fs-3x', ruta: '/compra' },
-  ];
+  const databar = [
+    { name: 'Línea 1', actual: 85, target: 95 },
+    { name: 'Línea 2', actual: 72, target: 80 },
+    { name: 'Línea 3', actual: 90, target: 95 },
+    { name: 'Línea 4', actual: 65, target: 75 }];
+  const datamonth = [
+    { month: 'Ene', current: 65, previous: 42 },
+    { month: 'Feb', current: 59, previous: 49 },
+    { month: 'Mar', current: 80, previous: 60 },
+    { month: 'Abr', current: 81, previous: 71 },
+    { month: 'May', current: 56, previous: 36 },
+    { month: 'Jun', current: 55, previous: 45 },
+    { month: 'Jul', current: 72, previous: 60 },
+    { month: 'Ago', current: 78, previous: 65 },
+    { month: 'Sep', current: 85, previous: 70 },
+    { month: 'Oct', current: 90, previous: 75 },
+    { month: 'Nov', current: 95, previous: 80 },
+    { month: 'Dic', current: 98, previous: 85 }];
+  const datakpi = [
+    { name: 'Rotación de Inventario', value: 72, color: 'success' },
+    { name: 'Tiempo de entrega promedio', value: 85, color: 'info' },
+    { name: 'Uso de capacidad de almacén', value: 63, color: 'warning' },
+    { name: 'Cumplimiento de pedidos a tiempo', value: 92, color: 'success' }];
   const cardAlmacen = [
-    { id: 1, title: "Ingreso",subtitle:"a Almacen", icon: 'fa-solid fa-folder fs-3x', ruta: '/kardexform?tipo=1' },
-    { id: 2, title: "Salida",subtitle:"de Almacen", icon: 'fa-solid fa-folder fs-3x', ruta: '/kardexform?tipo=0' },
-    { id: 3, title: "Kardex",subtitle:"", icon: 'fa-solid fa-folder fs-3x', ruta: '/kardex' },    
+    { id: 1, title: "Ingreso", subtitle: "a Almacen", icon: 'fa-solid fa-folder fs-3x', ruta: '/kardexform?tipo=1' },
+    { id: 2, title: "Salida", subtitle: "de Almacen", icon: 'fa-solid fa-folder fs-3x', ruta: '/kardexform?tipo=0' },
+    { id: 3, title: "Kardex", subtitle: "", icon: 'fa-solid fa-folder fs-3x', ruta: '/kardex' },
   ];
-  const cardComercial = [
-    { id: 1, title: "Lead",subtitle:"o Contácto", icon: 'fa-solid fa-paper-plane fs-3x', ruta: '/lead' },
-    { id: 2, title: "Oportunidad",subtitle:"de Venta", icon: 'fa-solid fa-paper-plane fs-3x', ruta: '/oportunidad' },
-    { id: 3, title: "Accion",subtitle:"Comercial", icon: 'fa-solid fa-paper-plane fs-3x', ruta: '/accion' },    
+  const datainventario = [
+    { name: 'Materia Prima', value: 35 },
+    { name: 'Productos en Proceso', value: 25 },
+    { name: 'Productos Terminados', value: 30 },
+    { name: 'Suministros', value: 10 }];
+  const dataorders = [
+    { id: '#ORD-2548', customer: 'Empresa ABC', date: '03/05/2025', amount: 5430, status: 'completed' },
+    { id: '#ORD-2547', customer: 'Distribuidora XYZ', date: '02/05/2025', amount: 2100, status: 'processing' },
+    { id: '#ORD-2546', customer: 'Industrias Méndez', date: '02/05/2025', amount: 8750, status: 'processing' },
+    { id: '#ORD-2545', customer: 'Corporación Global', date: '01/05/2025', amount: 3890, status: 'pending' },
+    { id: '#ORD-2544', customer: 'Suministros Técnicos', date: '01/05/2025', amount: 1250, status: 'completed' }
   ];
   return (
     <>
-        {/* begin::Row */}
-        <div className='row g-5 g-xl-8'>
-          <div className='col-6 col-lg-2  '>
-            <StatisticsWidget5
-              className='card-xl-stretch mb-xl-8 text-center'
-              svgIcon='file-invoice'
-              color='body-white'
-              iconColor='info'
-              title={Math.random().toString().slice(2, 4)}
-              description='Procesos'
-              titleColor='gray'
-              descriptionColor='gray-400'
-            />
-          </div>
-          <div className='col-6 col-lg-2 mb-4'>
-            <StatisticsWidget5
-              className='card-xl-stretch mb-xl-8 text-center'
-              svgIcon='door-open'
-              color='body-white'
-              iconColor='primary'
-              title={Math.random().toString().slice(2, 4)}
-              description='Abiertos'
-              titleColor='primary'
-              descriptionColor='gray-400'
-            />
-          </div>
-          <div className='col-6 col-lg-2 '>
-            <StatisticsWidget5
-              className='card-xl-stretch mb-xl-8 text-center'
-              svgIcon='arrows-down-to-people'
-              color='body-white'
-              iconColor='danger'
-              title={Math.random().toString().slice(2, 4)}
-              description='Inactivos'
-              titleColor='danger'
-              descriptionColor='gray-400'
-            />
-          </div>
-          <div className='col-6 col-lg-2 '>
-            <StatisticsWidget5
-              className='card-xl-stretch mb-xl-8 text-center'
-              svgIcon='door-closed'
-              color='body-white'
-              iconColor='success'
-              title={Math.random().toString().slice(2, 4)}
-              description='Cerrados'
-              titleColor='success'
-              descriptionColor='gray-400'
-            />
-          </div>
-          <div className='col-6 col-lg-2 '>
-            <StatisticsWidget5
-              className='card-xl-stretch mb-xl-8 text-center'
-              svgIcon='people-group'
-              color='body-white'
-              iconColor='info'
-              title={Math.random().toString().slice(2, 4)}
-              description='Evaluado'
-              titleColor='info'
-              descriptionColor='gray-400'
-            />
-          </div>
-          <div className='col-6 col-lg-2 '>
-            <StatisticsWidget5
-              className='card-xl-stretch mb-xl-8 text-center'
-              svgIcon='elevator'
-              color='body-white'
-              iconColor='warning'
-              title={Math.random().toString().slice(2, 4)}
-              description='Creditos'
-              titleColor='warning'
-              descriptionColor='gray-400'
-            />
+      {/* begin::Row */}
+      <div className='row g-5 g-xl-8'>
+        <div className='col-6 col-lg-3  '>
+          <StatisticsWidget5
+            className='card-xl-stretch mb-xl-8 text-center bg-dark'
+            svgIcon='file-invoice'
+            color='body-white'
+            iconColor='light'
+            title={Math.random().toString().slice(2, 4)}
+            description='Ordenes de Compra'
+            titleColor='light'
+            descriptionColor='light'
+          />
+        </div>
+        <div className='col-6 col-lg-3  '>
+          <StatisticsWidget5
+            className='card-xl-stretch mb-xl-8 text-center bg-danger'
+            svgIcon='door-open'
+            color='body-white'
+            iconColor='light'
+            title={Math.random().toString().slice(2, 4)}
+            description='Productos en Inventario'
+            titleColor='light'
+            descriptionColor='light'
+          />
+        </div>
+        <div className='col-6 col-lg-3 '>
+          <StatisticsWidget5
+            className='card-xl-stretch mb-xl-8 text-center bg-dark'
+            svgIcon='arrows-down-to-people'
+            color='body-white'
+            iconColor='light'
+            title={Math.random().toString().slice(2, 4)}
+            description='Pedidos Pendientes'
+            titleColor='light'
+            descriptionColor='light'
+          />
+        </div>
+        <div className='col-6 col-lg-3 '>
+          <StatisticsWidget5
+            className='card-xl-stretch mb-xl-8 text-center bg-danger'
+            svgIcon='door-closed'
+            color='body-white'
+            iconColor='light'
+            title={Math.random().toString().slice(2, 4)+'%'}
+            description='Eficiencia Producción'
+            titleColor='light'
+            descriptionColor='light'
+          />
+        </div>
+
+      </div>
+      {/* end::Row */}
+
+      {/* begin::Row */}
+      <div className="separator separator-dashed my-8"></div>
+      <div className='row g-5 g-xl-8'>
+        <div className='col-lg-6'>
+          <div className="card">
+            <div className="card-header bg-white">
+              <div className="d-flex justify-content-between align-items-center">
+                <h5 className="mb-0">Tendencia de Compras</h5>
+                 
+              </div>
+            </div>
+            <div className="card-body">
+              <div className="chart-container">
+                <ResponsiveContainer width="100%" height={250}>
+                  <LineChart data={datamonth}>
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis dataKey="month" />
+                    <YAxis />
+                    <Tooltip />
+                    <Legend />
+                    <Line
+                      type="monotone"
+                      dataKey="current"
+                      name="Compras 2025"
+                      stroke="#0d6efd"
+                      activeDot={{ r: 8 }}
+                      strokeWidth={2}
+                      fill="#0d6efd"
+                    />
+                    <Line
+                      type="monotone"
+                      dataKey="previous"
+                      name="Compras 2024"
+                      stroke="#6c757d"
+                      strokeDasharray="5 5"
+                    />
+                  </LineChart>
+                </ResponsiveContainer>
+              </div>
+            </div>
           </div>
         </div>
-        {/* end::Row */}
+        <div className='col-lg-6'>
+          <div className="card">
+            <div className="card-header bg-white">
+            <div className="d-flex justify-content-between align-items-center">
 
-        {/* begin::Row */}
-        <div className='row g-5 g-xl-8'>
-          <div className="card card-strech">
-            <form className="form">
-              <div className="card-body">
-                <div className="form-group row">
-                  <div className="col-lg-2">
-                    <input type="email" className="form-control" placeholder="Enter full name"></input>
-                  </div>
-                  <div className="col-lg-2">
-                    <input type="email" className="form-control" placeholder="Enter contact number"></input>
-                  </div>
-                  <div className="col-lg-2">
-                    <select className="form-select  " name="timeZone"  >
-                      <option value="">Organizacion..</option>
-                      <option value="International Date Line West">Unod</option>
-                      <option value="Midway Island">Dos</option>
-                      <option value="Samoa">Tres</option>
-                    </select>
-                  </div>
-                  <div className="col-lg-2">
-                    <select className="form-select  " name="timeZone"  >
-                      <option value="">Creador..</option>
-                      <option value="International Date Line West">Unod</option>
-                      <option value="Midway Island">Dos</option>
-                      <option value="Samoa">Tres</option>
-                    </select>
-                  </div>
-                  <div className="col-lg-2">
-                    <select className="form-select  " name="timeZone"  >
-                      <option value="">Estado..</option>
-                      <option value="International Date Line West">Unod</option>
-                      <option value="Midway Island">Dos</option>
-                      <option value="Samoa">Tres</option>
-                    </select>
-                  </div>
-                  <div className="col-lg-2">
-                    <select className="form-select  " name="timeZone"  >
-                      <option value="">Nivel Jerarquico..</option>
-                      <option value="International Date Line West">Unod</option>
-                      <option value="Midway Island">Dos</option>
-                      <option value="Samoa">Tres</option>
-                    </select>
-                  </div>
+              <h5 className="mb-0">Distribución de Inventario</h5>
+              </div>
+            </div>
+            <div className="card-body">
+              <div className="chart-container">
+                <ResponsiveContainer width="100%" height={250}>
+                  <PieChart>
+                    <Pie
+                      data={datainventario}
+                      cx="50%"
+                      cy="50%"
+                      labelLine={false}
+                      outerRadius={80}
+                      fill="#8884d8"
+                      dataKey="value"
+                      nameKey="name"
+                    >
+                      {data.map((entry, index) => (
+                        <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+                      ))}
+                    </Pie>
+                    <Tooltip />
+                    <Legend layout="vertical" verticalAlign="middle" align="right" />
+                  </PieChart>
+                </ResponsiveContainer>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className='col-lg-6'>
+        <div className="card">
+          <div className="card-header bg-white">
+          <div className="d-flex justify-content-between align-items-center">
+
+            <h5 className="mb-0">Estado de Producción</h5>
+            </div>
+          </div>
+          <div className="card-body">
+            <div className="chart-container">
+              <ResponsiveContainer width="100%" height={250}>
+                <BarChart data={databar}>
+                  <CartesianGrid strokeDasharray="3 3" />
+                  <XAxis dataKey="name" />
+                  <YAxis 
+                    tickFormatter={(value) => `${value}%`}
+                    domain={[0, 100]}
+                  />
+                  <Tooltip formatter={(value) => [`${value}%`, '']} />
+                  <Legend />
+                  <Bar dataKey="actual" name="Capacidad Utilizada" fill="#0d6efd" />
+                  <Bar dataKey="target" name="Objetivo" fill="#adb5bd" />
+                </BarChart>
+              </ResponsiveContainer>
+            </div>
+          </div>
+        </div>
+        </div>
+        <div className='col-lg-6'>
+          <div className="card">
+            <div className="card-header bg-white">
+              <div className="d-flex justify-content-between align-items-center">
+                <h5 className="mb-0">Estado de Pedidos</h5>
+                <div className="dropdown">
+                  
+                  
                 </div>
-                <div className='col-xl-12 pt-5'>
-            <div className="table-responsive">
-            
-              <table className="table table-hover mb-0">
-                <thead className="table-light">
+              </div>
+            </div>
+            <div className="card-body">
+              <table className="table table-hover">
+                <thead>
                   <tr>
-
-                    {columns.map(column => (
-                      <th
-                        key={column.id}
-                        className="border-0 bg-success text-white py-2 px-2"
-                      >
-                        <div
-                          className="d-flex align-items-center"
-                          style={{ cursor: column.sortable ? 'pointer' : 'default' }}
-
-                        >
-                          {column.header}
-
-                        </div>
-                      </th>
-                    ))}
-                  </tr>
+                    <th>ID</th>
+                    <th>Cliente</th>
+                    <th>Fecha</th>
+                    <th>Monto</th>
+                   </tr>
                 </thead>
                 <tbody>
-                  {loading ? (
-                    <tr>
-                      <td colSpan={columns.length + 1} className="text-center py-4">
-                        <div className="spinner-border text-primary" role="status">
-                          <span className="visually-hidden">Cargando...</span>
-                        </div>
-                      </td>
+                  {dataorders.map((order, index) => (
+                    <tr key={index}>
+                      <td>{order.id}</td>
+                      <td>{order.customer}</td>
+                      <td>{order.date}</td>
+                      <td>${order.amount.toFixed(2)}</td>
+                       
                     </tr>
-                  ) : data.length === 0 ? (
-                    <tr>
-                      <td colSpan={columns.length + 1} className="text-center py-4 text-muted">
-                        No se encontraron datos
-                      </td>
-                    </tr>
-                  ) : (
-                    data.map(row => (
-                      <tr key={row.id} >
-                        {columns.map(column => (
-                          <td key={`${row.id}-${column.id}`}>
-                            {column.id === 'progreso' ? 
-                            <>
-                            <div className="progress">
-                                <div className="progress-bar bg-secondary text-info" role="progressbar" 
-                                style={{ width: row[column.id as keyof typeof row]+'%' }} aria-valuenow={75}
-                                aria-valuemin={0} aria-valuemax={100}>
-                                 {row[column.id as keyof typeof row]}%
-                                </div>
-                            </div>
-                            </>
-                            :<>
-                              {row[column.id as keyof typeof row] === 'Abierto' ? (
-                                <>
-                                <span className='badge badge-info'>Abierto</span>
-                                </>
-                              ) : (
-                                <>
-                                {row[column.id as keyof typeof row] === 'Inactivo' ? (
-                                  <>
-                                  <span className='badge badge-danger'>Inactivo</span></>
-                                ) : (
-                                  <>{row[column.id as keyof typeof row]}</>
-                                )}
-                                </>
-                              )}
-                            </>}
-                            
-                            </td>
-                        ))}
-                      </tr>
-                    ))
-                  )}
+                  ))}
                 </tbody>
               </table>
             </div>
           </div>
-              </div>
-            </form>
-          </div>
-         
-          {/* begin::Col */}
-          <div className='col-xl-12'>
-           
-           </div>
-          {/* end::Col */}
         </div>
-        {/* end::Row */}
+      </div>
+      {/* end::Row */}
+      {/* begin::Col */}
+
+      {/* end::Col */}
+
+      {/* end::Row */}
+
     </>
   )
 }

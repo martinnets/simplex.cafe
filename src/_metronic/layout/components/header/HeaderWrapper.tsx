@@ -11,7 +11,7 @@ export function HeaderWrapper() {
 
   return (
     <div
-      id='kt_header' style={{ backgroundColor:"#f8f3eb"}}
+      id='kt_header'  
       className={clsx('header', classes.header.join(' '), 'align-items-stretch')}
       {...attributes.headerMenu}
     >

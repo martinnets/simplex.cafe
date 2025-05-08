@@ -119,18 +119,11 @@ const HeaderToolbar = () => {
             <div className='d-flex'>
               {/* begin::Action */}
              
-              <a
-                href='#'
-                className='btn btn-sm btn-icon btn-icon-muted btn-active-icon-primary'
-                data-bs-toggle='modal'
-                data-bs-target='#kt_modal_invite_friends'
-              >
-                <KTIcon iconName='files' className='fs-1' />
-              </a>
+             
               {/* end::Action */}
 
               {/* begin::Notifications */}
-              <div className='d-flex align-items-center'>
+              <div className='d-flex align-items-left'>
                 {/* begin::Menu- wrapper */}
                 <a href='#' className='btn btn-sm btn-icon btn-icon-muted btn-active-icon-primary'>
                   {currentUser?.codigo.toUpperCase()}
@@ -142,6 +135,7 @@ const HeaderToolbar = () => {
               {/* begin::Quick links */}
               <div className='d-flex align-items-center'>
                 {/* begin::Menu wrapper */}
+                
                 <a onClick={logout  }
                   className='btn btn-sm   btn-icon-muted btn-active-icon-danger'>
                   <i className="fa-solid fa-right-from-bracket"></i>
@@ -156,8 +150,7 @@ const HeaderToolbar = () => {
 
               {/* begin::Theme mode */}
               <div className='d-flex align-items-center'>
-                <ThemeModeSwitcher toggleBtnClass='btn btn-sm btn-icon btn-icon-muted btn-active-icon-primary' />
-              </div>
+               </div>
               {/* end::Theme mode */}
             </div>
             {/* end::Actions */}

@@ -26,8 +26,8 @@ const StatisticsWidget5: React.FC<Props> = ({
   return (
     <a href='#' className={`card bg-${color} hoverable ${className}`}>
       <div className='card-body'>
-        <i className={`fa fa-solid fa-${svgIcon} text-${iconColor}  fs-3x ms-n1`}></i>
-        <div className={`fw-semibold text-${descriptionColor} pt- fs-1x`} >{description}</div>
+        <i className={`fa fa-solid fa-${svgIcon} text-${iconColor}  fs-3x ms-n1 text-light`}></i>
+        <div className={`fw-bold text-${descriptionColor} pt- fs-4`} >{description}</div>
         <div className={`text-${titleColor} fw-bold fs-2x mb-2 mt-5`}>{title}</div>
       </div>
     </a>

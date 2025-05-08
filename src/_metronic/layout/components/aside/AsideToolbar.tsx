@@ -12,7 +12,9 @@ const AsideToolbar = () => {
       <div className='aside-user d-flex align-items-sm-center justify-content-center py-5'>
         {/*begin::Symbol*/}
         <div className='symbol symbol-50px'>
-          <img src={toAbsoluteUrl('media/avatars/user.png')} alt='' />
+           <KTIcon
+            iconName='profile-circle'
+            className='fs-4x  text-danger'></KTIcon>
         </div>
         {/*end::Symbol*/}
 
